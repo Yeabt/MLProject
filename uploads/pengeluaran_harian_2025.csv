@@ -1,0 +1,1878 @@
+date,category,amount,description
+2025-01-01,health,300000,Gym membership
+2025-01-01,entertainment,221981,Shopping
+2025-01-01,transportation,45700,Transportation expense
+2025-01-01,transportation,39400,Transportation expense
+2025-01-01,transportation,10400,Transportation expense
+2025-01-02,food & beverages,77731,Beverage
+2025-01-02,utilities,32156,Electric bill
+2025-01-02,transportation,33500,Transportation expense
+2025-01-02,health,99131,Health expense
+2025-01-02,food & beverages,45108,Beverage
+2025-01-02,transportation,34800,Transportation expense
+2025-01-02,food & beverages,56198,Beverage
+2025-01-03,food & beverages,19558,Beverage
+2025-01-03,food & beverages,33965,Beverage
+2025-01-03,other,40512,Other expense
+2025-01-03,health,69823,Health expense
+2025-01-03,food & beverages,38909,Food
+2025-01-03,food & beverages,58920,Beverage
+2025-01-03,food & beverages,57469,Food
+2025-01-03,food & beverages,50005,Food
+2025-01-03,utilities,80589,Water bill
+2025-01-03,transportation,46500,Transportation expense
+2025-01-03,food & beverages,65352,Beverage
+2025-01-03,utilities,24207,Water bill
+2025-01-03,utilities,55093,Tax
+2025-01-03,food & beverages,52170,Food
+2025-01-04,entertainment,361740,Arcade
+2025-01-04,health,104259,Health expense
+2025-01-04,transportation,27400,Transportation expense
+2025-01-04,food & beverages,50322,Food
+2025-01-04,food & beverages,73839,Food
+2025-01-04,transportation,33700,Transportation expense
+2025-01-04,food & beverages,48392,Food
+2025-01-04,transportation,13100,Transportation expense
+2025-01-04,health,40033,Health expense
+2025-01-04,transportation,37700,Transportation expense
+2025-01-05,entertainment,300078,Arcade
+2025-01-05,transportation,46300,Transportation expense
+2025-01-05,health,21504,Health expense
+2025-01-05,utilities,90381,Electric bill
+2025-01-05,utilities,34621,Internet
+2025-01-05,food & beverages,15212,Beverage
+2025-01-05,other,44522,Other expense
+2025-01-05,other,33416,Other expense
+2025-01-05,transportation,17000,Transportation expense
+2025-01-05,health,59117,Health expense
+2025-01-05,health,86540,Health expense
+2025-01-05,transportation,20000,Transportation expense
+2025-01-05,transportation,20600,Transportation expense
+2025-01-05,transportation,44800,Transportation expense
+2025-01-06,transportation,17300,Transportation expense
+2025-01-06,other,50306,Other expense
+2025-01-06,food & beverages,52182,Beverage
+2025-01-06,other,21226,Other expense
+2025-01-06,utilities,89822,Electric bill
+2025-01-07,entertainment,349184,Karaoke
+2025-01-07,food & beverages,42730,Food
+2025-01-07,other,80686,Other expense
+2025-01-07,utilities,60857,Water bill
+2025-01-07,transportation,34500,Transportation expense
+2025-01-07,transportation,43900,Transportation expense
+2025-01-07,transportation,26200,Transportation expense
+2025-01-08,entertainment,111028,Karaoke
+2025-01-08,transportation,10500,Transportation expense
+2025-01-08,food & beverages,30003,Food
+2025-01-08,food & beverages,36654,Beverage
+2025-01-08,food & beverages,58842,Beverage
+2025-01-08,transportation,45300,Transportation expense
+2025-01-08,food & beverages,52423,Food
+2025-01-08,transportation,25900,Transportation expense
+2025-01-09,food & beverages,43249,Beverage
+2025-01-09,food & beverages,71612,Food
+2025-01-09,utilities,27944,Electric bill
+2025-01-09,transportation,32200,Transportation expense
+2025-01-09,utilities,52591,Electric bill
+2025-01-09,food & beverages,24186,Food
+2025-01-09,transportation,28300,Transportation expense
+2025-01-09,transportation,14900,Transportation expense
+2025-01-09,transportation,46100,Transportation expense
+2025-01-09,food & beverages,50427,Food
+2025-01-09,health,32224,Health expense
+2025-01-09,other,40982,Other expense
+2025-01-10,transportation,36300,Transportation expense
+2025-01-10,health,41579,Health expense
+2025-01-10,transportation,35600,Transportation expense
+2025-01-10,food & beverages,44819,Food
+2025-01-10,food & beverages,62874,Food
+2025-01-10,other,82845,Other expense
+2025-01-10,utilities,40289,Tax
+2025-01-11,entertainment,130662,Shopping
+2025-01-11,utilities,26572,Electric bill
+2025-01-11,transportation,43000,Transportation expense
+2025-01-11,other,79615,Other expense
+2025-01-11,food & beverages,20250,Food
+2025-01-11,health,28981,Health expense
+2025-01-11,transportation,25400,Transportation expense
+2025-01-11,transportation,47300,Transportation expense
+2025-01-12,food & beverages,58081,Beverage
+2025-01-12,transportation,44300,Transportation expense
+2025-01-12,food & beverages,58891,Beverage
+2025-01-12,utilities,54814,Water bill
+2025-01-12,transportation,29700,Transportation expense
+2025-01-12,transportation,14800,Transportation expense
+2025-01-12,food & beverages,51896,Food
+2025-01-12,other,19602,Other expense
+2025-01-13,entertainment,239041,Karaoke
+2025-01-13,other,19016,Other expense
+2025-01-13,health,68434,Health expense
+2025-01-13,food & beverages,50600,Food
+2025-01-13,utilities,92692,Electric bill
+2025-01-13,food & beverages,76533,Food
+2025-01-13,health,54664,Health expense
+2025-01-13,food & beverages,51256,Beverage
+2025-01-13,food & beverages,28803,Beverage
+2025-01-13,utilities,54600,Water bill
+2025-01-13,transportation,26500,Transportation expense
+2025-01-13,health,26658,Health expense
+2025-01-13,food & beverages,33132,Food
+2025-01-14,entertainment,168587,Cinema
+2025-01-14,food & beverages,61246,Food
+2025-01-14,transportation,10600,Transportation expense
+2025-01-14,food & beverages,60286,Food
+2025-01-14,health,91511,Health expense
+2025-01-15,transportation,19700,Transportation expense
+2025-01-15,transportation,12700,Transportation expense
+2025-01-15,food & beverages,67174,Food
+2025-01-15,other,15229,Other expense
+2025-01-15,health,47535,Health expense
+2025-01-16,entertainment,153893,Cinema
+2025-01-16,utilities,40257,Tax
+2025-01-16,other,41029,Other expense
+2025-01-16,health,43206,Health expense
+2025-01-16,health,23248,Health expense
+2025-01-16,food & beverages,66274,Food
+2025-01-17,entertainment,467671,Shopping
+2025-02-01,health,300000,Gym membership
+2025-02-01,transportation,10000,Transportation expense
+2025-02-01,food & beverages,66495,Beverage
+2025-02-01,transportation,31100,Transportation expense
+2025-02-01,transportation,39000,Transportation expense
+2025-02-01,utilities,42241,Tax
+2025-02-01,utilities,87561,Internet
+2025-02-01,utilities,32240,Internet
+2025-02-01,health,118453,Health expense
+2025-02-01,food & beverages,67858,Beverage
+2025-02-01,food & beverages,31046,Beverage
+2025-02-01,other,90120,Other expense
+2025-02-01,health,29545,Health expense
+2025-02-01,transportation,47700,Transportation expense
+2025-02-02,transportation,36200,Transportation expense
+2025-02-02,food & beverages,15363,Food
+2025-02-02,health,33970,Health expense
+2025-02-02,utilities,43053,Water bill
+2025-02-02,utilities,26582,Tax
+2025-02-02,transportation,18000,Transportation expense
+2025-02-02,transportation,40400,Transportation expense
+2025-02-02,utilities,78008,Internet
+2025-02-03,health,75933,Health expense
+2025-02-03,health,91810,Health expense
+2025-02-03,transportation,20400,Transportation expense
+2025-02-03,utilities,78991,Tax
+2025-02-03,food & beverages,56789,Beverage
+2025-02-03,food & beverages,46758,Food
+2025-02-03,transportation,28000,Transportation expense
+2025-02-03,transportation,28700,Transportation expense
+2025-02-03,food & beverages,73525,Beverage
+2025-02-03,transportation,19100,Transportation expense
+2025-02-03,food & beverages,25014,Beverage
+2025-02-03,utilities,74377,Electric bill
+2025-02-03,transportation,45600,Transportation expense
+2025-02-03,transportation,14100,Transportation expense
+2025-02-04,transportation,48300,Transportation expense
+2025-02-04,other,12560,Other expense
+2025-02-04,health,95456,Health expense
+2025-02-04,transportation,10400,Transportation expense
+2025-02-04,other,49139,Other expense
+2025-02-04,utilities,90545,Tax
+2025-02-04,utilities,83993,Water bill
+2025-02-04,food & beverages,16902,Food
+2025-02-05,utilities,41632,Tax
+2025-02-05,health,36728,Health expense
+2025-02-05,other,80008,Other expense
+2025-02-05,food & beverages,51987,Beverage
+2025-02-05,utilities,76179,Electric bill
+2025-02-05,food & beverages,18295,Food
+2025-02-05,food & beverages,44799,Beverage
+2025-02-05,food & beverages,39846,Food
+2025-02-05,food & beverages,42627,Food
+2025-02-05,food & beverages,16270,Beverage
+2025-02-05,utilities,65870,Electric bill
+2025-02-06,utilities,24067,Electric bill
+2025-02-06,other,36130,Other expense
+2025-02-06,health,101439,Health expense
+2025-02-06,food & beverages,58873,Beverage
+2025-02-06,food & beverages,45476,Food
+2025-02-06,utilities,41992,Internet
+2025-02-06,transportation,17500,Transportation expense
+2025-02-06,utilities,60768,Water bill
+2025-02-07,other,85470,Other expense
+2025-02-07,utilities,71990,Tax
+2025-02-07,other,35995,Other expense
+2025-02-07,food & beverages,56106,Food
+2025-02-07,food & beverages,34764,Food
+2025-02-07,health,98697,Health expense
+2025-02-08,transportation,12700,Transportation expense
+2025-02-08,food & beverages,39285,Food
+2025-02-08,food & beverages,15829,Food
+2025-02-08,health,84251,Health expense
+2025-02-08,food & beverages,56653,Food
+2025-02-08,health,80258,Health expense
+2025-02-09,utilities,90539,Internet
+2025-02-09,utilities,77091,Tax
+2025-02-09,health,97656,Health expense
+2025-02-09,food & beverages,69442,Food
+2025-02-09,other,46559,Other expense
+2025-02-09,health,51963,Health expense
+2025-02-09,utilities,64092,Tax
+2025-02-10,food & beverages,38253,Food
+2025-02-10,utilities,56655,Internet
+2025-02-10,health,111905,Health expense
+2025-02-10,health,92848,Health expense
+2025-02-10,food & beverages,20610,Food
+2025-02-11,transportation,25700,Transportation expense
+2025-02-11,utilities,78743,Tax
+2025-02-11,utilities,58566,Electric bill
+2025-02-11,food & beverages,35067,Food
+2025-02-11,utilities,82031,Internet
+2025-02-11,transportation,32500,Transportation expense
+2025-02-11,transportation,46100,Transportation expense
+2025-02-11,food & beverages,32754,Food
+2025-02-12,entertainment,163258,Karaoke
+2025-02-12,food & beverages,77316,Food
+2025-02-12,utilities,45105,Water bill
+2025-02-12,food & beverages,62486,Food
+2025-02-12,transportation,44400,Transportation expense
+2025-02-12,transportation,16600,Transportation expense
+2025-02-12,health,58829,Health expense
+2025-02-12,food & beverages,15927,Beverage
+2025-02-12,utilities,55954,Water bill
+2025-02-13,transportation,18300,Transportation expense
+2025-02-13,utilities,33446,Tax
+2025-02-13,health,95243,Health expense
+2025-02-13,food & beverages,37328,Food
+2025-02-13,food & beverages,76673,Beverage
+2025-02-14,entertainment,134258,Arcade
+2025-02-14,transportation,47800,Transportation expense
+2025-02-14,transportation,13500,Transportation expense
+2025-02-14,food & beverages,77201,Food
+2025-02-14,food & beverages,22762,Food
+2025-02-14,transportation,37300,Transportation expense
+2025-02-14,transportation,24800,Transportation expense
+2025-02-14,utilities,79049,Tax
+2025-02-14,health,58974,Health expense
+2025-02-14,health,76207,Health expense
+2025-02-14,food & beverages,54952,Food
+2025-02-14,other,23006,Other expense
+2025-02-15,food & beverages,30719,Beverage
+2025-02-15,food & beverages,15175,Beverage
+2025-02-15,transportation,48900,Transportation expense
+2025-02-15,transportation,12100,Transportation expense
+2025-02-15,food & beverages,61070,Food
+2025-02-15,health,29329,Health expense
+2025-02-15,utilities,97304,Internet
+2025-02-15,utilities,75723,Water bill
+2025-02-16,utilities,38643,Internet
+2025-02-16,food & beverages,35159,Beverage
+2025-02-16,transportation,47300,Transportation expense
+2025-02-16,other,67560,Other expense
+2025-02-17,transportation,42400,Transportation expense
+2025-02-19,entertainment,453526,Shopping
+2025-03-01,health,300000,Gym membership
+2025-03-01,food & beverages,23586,Beverage
+2025-03-01,other,67424,Other expense
+2025-03-01,health,83532,Health expense
+2025-03-01,food & beverages,54903,Food
+2025-03-01,utilities,60730,Water bill
+2025-03-01,transportation,46200,Transportation expense
+2025-03-01,transportation,24700,Transportation expense
+2025-03-01,other,24871,Other expense
+2025-03-01,transportation,17700,Transportation expense
+2025-03-01,utilities,85323,Water bill
+2025-03-01,other,48254,Other expense
+2025-03-01,transportation,27900,Transportation expense
+2025-03-01,transportation,41600,Transportation expense
+2025-03-01,other,41946,Other expense
+2025-03-02,transportation,49300,Transportation expense
+2025-03-02,transportation,18900,Transportation expense
+2025-03-02,health,56208,Health expense
+2025-03-02,utilities,64548,Tax
+2025-03-02,other,76550,Other expense
+2025-03-02,food & beverages,62582,Beverage
+2025-03-02,food & beverages,58249,Food
+2025-03-02,transportation,19700,Transportation expense
+2025-03-02,transportation,41700,Transportation expense
+2025-03-02,food & beverages,50614,Food
+2025-03-02,transportation,31100,Transportation expense
+2025-03-02,health,111422,Health expense
+2025-03-03,food & beverages,17860,Food
+2025-03-03,food & beverages,74862,Food
+2025-03-03,utilities,39936,Tax
+2025-03-03,transportation,12400,Transportation expense
+2025-03-03,food & beverages,36757,Food
+2025-03-03,health,77711,Health expense
+2025-03-03,food & beverages,16005,Food
+2025-03-03,utilities,40232,Tax
+2025-03-04,other,54375,Other expense
+2025-03-04,transportation,36000,Transportation expense
+2025-03-04,utilities,89942,Internet
+2025-03-04,transportation,30800,Transportation expense
+2025-03-04,transportation,42000,Transportation expense
+2025-03-04,health,24705,Health expense
+2025-03-05,entertainment,430910,Cinema
+2025-03-05,other,21846,Other expense
+2025-03-05,transportation,16500,Transportation expense
+2025-03-05,utilities,78153,Electric bill
+2025-03-05,food & beverages,16897,Beverage
+2025-03-05,food & beverages,34226,Food
+2025-03-05,food & beverages,31003,Food
+2025-03-05,transportation,47100,Transportation expense
+2025-03-05,utilities,42280,Water bill
+2025-03-05,food & beverages,40070,Food
+2025-03-05,transportation,25800,Transportation expense
+2025-03-05,transportation,48200,Transportation expense
+2025-03-05,food & beverages,31644,Food
+2025-03-05,transportation,10600,Transportation expense
+2025-03-06,utilities,29681,Water bill
+2025-03-06,transportation,32600,Transportation expense
+2025-03-06,other,49210,Other expense
+2025-03-06,utilities,52780,Tax
+2025-03-06,transportation,29800,Transportation expense
+2025-03-06,food & beverages,46667,Beverage
+2025-03-06,food & beverages,38524,Beverage
+2025-03-06,transportation,29300,Transportation expense
+2025-03-06,food & beverages,40939,Food
+2025-03-06,food & beverages,59944,Food
+2025-03-06,utilities,99482,Electric bill
+2025-03-06,utilities,50162,Internet
+2025-03-07,food & beverages,31425,Beverage
+2025-03-07,utilities,32735,Water bill
+2025-03-07,health,104717,Health expense
+2025-03-07,food & beverages,17186,Food
+2025-03-07,transportation,18600,Transportation expense
+2025-03-07,food & beverages,63986,Beverage
+2025-03-07,transportation,23200,Transportation expense
+2025-03-07,food & beverages,78667,Food
+2025-03-07,transportation,42900,Transportation expense
+2025-03-07,other,31567,Other expense
+2025-03-07,food & beverages,46578,Food
+2025-03-07,other,48684,Other expense
+2025-03-07,utilities,35095,Internet
+2025-03-07,transportation,14900,Transportation expense
+2025-03-08,food & beverages,59197,Food
+2025-03-08,other,83048,Other expense
+2025-03-08,transportation,35900,Transportation expense
+2025-03-08,food & beverages,44804,Food
+2025-03-08,transportation,27200,Transportation expense
+2025-03-08,transportation,34300,Transportation expense
+2025-03-08,food & beverages,16640,Beverage
+2025-03-09,transportation,50000,Transportation expense
+2025-03-09,food & beverages,68992,Beverage
+2025-03-09,transportation,29800,Transportation expense
+2025-03-09,utilities,38320,Electric bill
+2025-03-09,food & beverages,47284,Beverage
+2025-03-09,food & beverages,50228,Beverage
+2025-03-09,food & beverages,58940,Food
+2025-03-09,other,80804,Other expense
+2025-03-09,transportation,20100,Transportation expense
+2025-03-09,health,105841,Health expense
+2025-03-09,food & beverages,41746,Food
+2025-03-09,other,46666,Other expense
+2025-03-09,food & beverages,44057,Beverage
+2025-03-09,transportation,25500,Transportation expense
+2025-03-10,entertainment,459493,Cinema
+2025-03-10,transportation,33500,Transportation expense
+2025-03-10,food & beverages,78452,Beverage
+2025-03-10,food & beverages,44800,Food
+2025-03-10,food & beverages,56909,Beverage
+2025-03-10,transportation,11400,Transportation expense
+2025-03-10,food & beverages,79803,Beverage
+2025-03-10,food & beverages,19496,Food
+2025-03-10,health,92641,Health expense
+2025-03-10,food & beverages,71996,Beverage
+2025-03-11,food & beverages,15185,Food
+2025-03-11,food & beverages,79718,Food
+2025-03-11,food & beverages,26435,Beverage
+2025-03-11,food & beverages,23637,Food
+2025-03-11,food & beverages,30593,Food
+2025-03-11,transportation,11000,Transportation expense
+2025-03-11,food & beverages,63609,Beverage
+2025-03-11,transportation,17400,Transportation expense
+2025-03-12,utilities,79245,Electric bill
+2025-03-12,transportation,12800,Transportation expense
+2025-03-12,utilities,80036,Internet
+2025-03-12,utilities,27972,Electric bill
+2025-03-12,other,62640,Other expense
+2025-03-12,transportation,17100,Transportation expense
+2025-03-13,transportation,15300,Transportation expense
+2025-03-13,food & beverages,23270,Beverage
+2025-03-13,food & beverages,50937,Food
+2025-03-13,utilities,98301,Tax
+2025-03-13,transportation,39700,Transportation expense
+2025-03-13,transportation,38200,Transportation expense
+2025-03-13,food & beverages,70888,Food
+2025-03-13,utilities,76370,Water bill
+2025-03-13,transportation,25000,Transportation expense
+2025-03-13,transportation,39700,Transportation expense
+2025-03-13,transportation,16200,Transportation expense
+2025-03-13,food & beverages,31704,Beverage
+2025-03-14,utilities,28799,Tax
+2025-03-14,food & beverages,43303,Beverage
+2025-03-14,food & beverages,68200,Food
+2025-03-14,food & beverages,77693,Beverage
+2025-03-14,transportation,31600,Transportation expense
+2025-03-14,utilities,66346,Tax
+2025-03-14,health,118341,Health expense
+2025-03-14,transportation,13400,Transportation expense
+2025-03-14,other,88696,Other expense
+2025-03-14,food & beverages,48253,Beverage
+2025-03-15,entertainment,352806,Karaoke
+2025-03-15,health,65890,Health expense
+2025-03-15,health,68176,Health expense
+2025-03-15,food & beverages,29821,Beverage
+2025-03-15,utilities,99822,Electric bill
+2025-03-15,other,45054,Other expense
+2025-03-15,food & beverages,64965,Beverage
+2025-03-15,food & beverages,15400,Beverage
+2025-03-16,transportation,36300,Transportation expense
+2025-03-16,food & beverages,78688,Food
+2025-03-16,food & beverages,29098,Food
+2025-03-16,transportation,39700,Transportation expense
+2025-03-16,food & beverages,62290,Beverage
+2025-03-16,food & beverages,54074,Food
+2025-03-16,food & beverages,25316,Beverage
+2025-03-17,entertainment,142772,Cinema
+2025-03-17,transportation,37800,Transportation expense
+2025-03-17,transportation,39000,Transportation expense
+2025-03-17,transportation,24100,Transportation expense
+2025-03-17,utilities,65242,Electric bill
+2025-03-17,transportation,28600,Transportation expense
+2025-03-18,food & beverages,18590,Food
+2025-03-18,food & beverages,28843,Beverage
+2025-03-19,entertainment,360773,Arcade
+2025-04-01,health,300000,Gym membership
+2025-04-01,transportation,48000,Transportation expense
+2025-04-01,transportation,47000,Transportation expense
+2025-04-01,utilities,61436,Internet
+2025-04-01,food & beverages,43980,Beverage
+2025-04-01,transportation,28000,Transportation expense
+2025-04-01,transportation,33100,Transportation expense
+2025-04-01,transportation,30300,Transportation expense
+2025-04-01,transportation,12500,Transportation expense
+2025-04-01,food & beverages,20028,Food
+2025-04-01,utilities,97867,Electric bill
+2025-04-01,transportation,40300,Transportation expense
+2025-04-02,utilities,78947,Electric bill
+2025-04-02,health,94928,Health expense
+2025-04-02,utilities,99299,Internet
+2025-04-02,transportation,19900,Transportation expense
+2025-04-02,other,69050,Other expense
+2025-04-02,food & beverages,37507,Food
+2025-04-02,other,21053,Other expense
+2025-04-02,transportation,21300,Transportation expense
+2025-04-02,food & beverages,79945,Food
+2025-04-02,transportation,44300,Transportation expense
+2025-04-02,transportation,33800,Transportation expense
+2025-04-02,transportation,28500,Transportation expense
+2025-04-02,transportation,32200,Transportation expense
+2025-04-02,utilities,63863,Electric bill
+2025-04-03,transportation,35300,Transportation expense
+2025-04-03,food & beverages,58028,Food
+2025-04-03,other,88997,Other expense
+2025-04-03,health,63694,Health expense
+2025-04-03,food & beverages,75079,Food
+2025-04-03,food & beverages,60775,Food
+2025-04-04,transportation,15600,Transportation expense
+2025-04-04,food & beverages,66882,Beverage
+2025-04-04,food & beverages,61060,Beverage
+2025-04-04,health,116832,Health expense
+2025-04-04,other,78995,Other expense
+2025-04-04,food & beverages,48324,Food
+2025-04-04,food & beverages,26813,Beverage
+2025-04-04,other,54791,Other expense
+2025-04-04,other,73736,Other expense
+2025-04-04,food & beverages,25154,Food
+2025-04-04,food & beverages,21628,Food
+2025-04-04,transportation,45400,Transportation expense
+2025-04-04,health,89013,Health expense
+2025-04-04,food & beverages,65220,Beverage
+2025-04-04,transportation,49100,Transportation expense
+2025-04-05,entertainment,194815,Karaoke
+2025-04-05,utilities,73852,Electric bill
+2025-04-05,transportation,25600,Transportation expense
+2025-04-05,other,90031,Other expense
+2025-04-05,food & beverages,44420,Food
+2025-04-05,food & beverages,78281,Beverage
+2025-04-05,utilities,45430,Tax
+2025-04-05,transportation,47400,Transportation expense
+2025-04-05,other,70513,Other expense
+2025-04-05,utilities,85916,Tax
+2025-04-05,transportation,20600,Transportation expense
+2025-04-06,food & beverages,57020,Beverage
+2025-04-06,transportation,34300,Transportation expense
+2025-04-06,transportation,16700,Transportation expense
+2025-04-06,utilities,57363,Electric bill
+2025-04-06,food & beverages,44446,Beverage
+2025-04-06,health,39313,Health expense
+2025-04-06,health,32021,Health expense
+2025-04-06,other,39102,Other expense
+2025-04-07,other,64381,Other expense
+2025-04-07,food & beverages,30451,Food
+2025-04-07,transportation,15300,Transportation expense
+2025-04-07,transportation,11800,Transportation expense
+2025-04-07,food & beverages,61838,Beverage
+2025-04-07,utilities,38035,Water bill
+2025-04-07,food & beverages,45962,Food
+2025-04-07,utilities,81487,Water bill
+2025-04-07,transportation,10300,Transportation expense
+2025-04-07,health,22490,Health expense
+2025-04-07,food & beverages,50966,Food
+2025-04-07,other,89807,Other expense
+2025-04-08,utilities,59472,Water bill
+2025-04-08,food & beverages,56874,Beverage
+2025-04-08,utilities,28232,Tax
+2025-04-08,food & beverages,54107,Food
+2025-04-08,transportation,43800,Transportation expense
+2025-04-08,transportation,19400,Transportation expense
+2025-04-08,food & beverages,38122,Beverage
+2025-04-08,food & beverages,58540,Food
+2025-04-08,utilities,28870,Internet
+2025-04-08,other,81313,Other expense
+2025-04-08,transportation,43300,Transportation expense
+2025-04-08,transportation,35600,Transportation expense
+2025-04-08,health,25706,Health expense
+2025-04-09,transportation,11100,Transportation expense
+2025-04-09,food & beverages,30802,Beverage
+2025-04-09,utilities,96271,Electric bill
+2025-04-09,utilities,37486,Internet
+2025-04-09,food & beverages,68314,Food
+2025-04-09,utilities,82722,Tax
+2025-04-09,transportation,18800,Transportation expense
+2025-04-09,food & beverages,44994,Food
+2025-04-09,food & beverages,66846,Beverage
+2025-04-09,food & beverages,76169,Beverage
+2025-04-09,food & beverages,68438,Beverage
+2025-04-09,transportation,26600,Transportation expense
+2025-04-09,food & beverages,33750,Food
+2025-04-09,food & beverages,71740,Food
+2025-04-09,utilities,36315,Internet
+2025-04-10,transportation,38800,Transportation expense
+2025-04-10,health,70678,Health expense
+2025-04-10,food & beverages,60355,Beverage
+2025-04-10,transportation,44000,Transportation expense
+2025-04-10,food & beverages,42820,Beverage
+2025-04-10,food & beverages,68892,Food
+2025-04-10,food & beverages,21723,Beverage
+2025-04-10,food & beverages,35086,Food
+2025-04-10,transportation,37900,Transportation expense
+2025-04-10,food & beverages,44303,Food
+2025-04-11,other,90589,Other expense
+2025-04-11,other,45986,Other expense
+2025-04-11,utilities,29835,Electric bill
+2025-04-11,utilities,67619,Tax
+2025-04-11,transportation,20500,Transportation expense
+2025-04-12,entertainment,418543,Arcade
+2025-04-12,food & beverages,66020,Beverage
+2025-04-12,utilities,70181,Internet
+2025-04-12,other,14244,Other expense
+2025-04-12,transportation,39500,Transportation expense
+2025-04-13,utilities,89397,Water bill
+2025-04-13,transportation,30600,Transportation expense
+2025-04-13,utilities,34869,Water bill
+2025-04-13,food & beverages,48930,Beverage
+2025-04-13,transportation,46800,Transportation expense
+2025-04-13,food & beverages,61139,Food
+2025-04-13,transportation,28700,Transportation expense
+2025-04-13,utilities,46237,Tax
+2025-04-13,food & beverages,44625,Food
+2025-04-13,food & beverages,20753,Food
+2025-04-14,other,97535,Other expense
+2025-04-14,food & beverages,50531,Beverage
+2025-04-14,food & beverages,25322,Beverage
+2025-04-14,utilities,67381,Water bill
+2025-04-14,transportation,18000,Transportation expense
+2025-04-14,other,28202,Other expense
+2025-04-14,food & beverages,38651,Food
+2025-04-14,transportation,34200,Transportation expense
+2025-04-14,transportation,46200,Transportation expense
+2025-04-14,food & beverages,19308,Food
+2025-04-14,food & beverages,62111,Food
+2025-04-14,transportation,36900,Transportation expense
+2025-04-14,utilities,36426,Electric bill
+2025-04-14,other,94192,Other expense
+2025-04-14,food & beverages,48905,Food
+2025-04-15,entertainment,389041,Karaoke
+2025-04-15,utilities,76704,Water bill
+2025-04-15,transportation,13600,Transportation expense
+2025-04-15,health,87908,Health expense
+2025-04-15,food & beverages,36145,Beverage
+2025-04-15,other,39552,Other expense
+2025-04-15,food & beverages,73649,Food
+2025-04-15,food & beverages,27864,Beverage
+2025-04-15,transportation,46100,Transportation expense
+2025-04-15,food & beverages,55267,Food
+2025-04-16,entertainment,436062,Karaoke
+2025-05-01,health,300000,Gym membership
+2025-05-01,entertainment,306172,Arcade
+2025-05-01,other,38199,Other expense
+2025-05-01,transportation,13200,Transportation expense
+2025-05-01,food & beverages,72824,Food
+2025-05-01,health,108148,Health expense
+2025-05-01,transportation,45200,Transportation expense
+2025-05-01,food & beverages,23777,Beverage
+2025-05-01,health,115355,Health expense
+2025-05-01,transportation,36400,Transportation expense
+2025-05-01,transportation,36300,Transportation expense
+2025-05-01,food & beverages,38758,Food
+2025-05-02,entertainment,302558,Arcade
+2025-05-02,utilities,35572,Internet
+2025-05-02,food & beverages,39457,Beverage
+2025-05-02,utilities,93116,Internet
+2025-05-02,other,28909,Other expense
+2025-05-02,food & beverages,47773,Food
+2025-05-02,food & beverages,61765,Beverage
+2025-05-02,food & beverages,44949,Food
+2025-05-02,food & beverages,24160,Food
+2025-05-02,food & beverages,25649,Food
+2025-05-02,transportation,29600,Transportation expense
+2025-05-02,transportation,43200,Transportation expense
+2025-05-02,health,89774,Health expense
+2025-05-03,food & beverages,39140,Food
+2025-05-03,food & beverages,42298,Beverage
+2025-05-03,transportation,11700,Transportation expense
+2025-05-03,transportation,27400,Transportation expense
+2025-05-03,other,85821,Other expense
+2025-05-03,transportation,13400,Transportation expense
+2025-05-03,transportation,21200,Transportation expense
+2025-05-03,transportation,34900,Transportation expense
+2025-05-03,food & beverages,17069,Food
+2025-05-03,transportation,17200,Transportation expense
+2025-05-03,food & beverages,42445,Food
+2025-05-03,food & beverages,41894,Food
+2025-05-04,other,18163,Other expense
+2025-05-04,utilities,93516,Water bill
+2025-05-04,food & beverages,49437,Food
+2025-05-04,transportation,21300,Transportation expense
+2025-05-04,transportation,44900,Transportation expense
+2025-05-04,food & beverages,65593,Beverage
+2025-05-04,health,109226,Health expense
+2025-05-04,utilities,99963,Internet
+2025-05-04,transportation,26200,Transportation expense
+2025-05-04,food & beverages,76701,Beverage
+2025-05-04,other,49008,Other expense
+2025-05-04,utilities,84094,Water bill
+2025-05-04,food & beverages,76190,Beverage
+2025-05-05,entertainment,400667,Arcade
+2025-05-05,health,71712,Health expense
+2025-05-05,health,39198,Health expense
+2025-05-05,food & beverages,61801,Beverage
+2025-05-05,food & beverages,57989,Food
+2025-05-05,food & beverages,28242,Food
+2025-05-05,health,55537,Health expense
+2025-05-05,other,45601,Other expense
+2025-05-05,food & beverages,53458,Food
+2025-05-06,entertainment,451185,Karaoke
+2025-05-06,utilities,33133,Electric bill
+2025-05-06,transportation,41000,Transportation expense
+2025-05-06,food & beverages,15339,Food
+2025-05-06,other,30701,Other expense
+2025-05-06,transportation,41200,Transportation expense
+2025-05-06,transportation,23100,Transportation expense
+2025-05-06,utilities,62096,Internet
+2025-05-07,health,31725,Health expense
+2025-05-07,utilities,90143,Water bill
+2025-05-07,utilities,42946,Electric bill
+2025-05-07,transportation,21500,Transportation expense
+2025-05-07,other,14763,Other expense
+2025-05-07,other,62034,Other expense
+2025-05-07,utilities,57941,Water bill
+2025-05-07,health,21214,Health expense
+2025-05-07,food & beverages,75847,Food
+2025-05-08,entertainment,436232,Arcade
+2025-05-08,health,37589,Health expense
+2025-05-08,health,81344,Health expense
+2025-05-08,food & beverages,36671,Food
+2025-05-08,food & beverages,31860,Food
+2025-05-08,utilities,64185,Electric bill
+2025-05-08,utilities,43002,Water bill
+2025-05-08,transportation,36600,Transportation expense
+2025-05-08,health,87538,Health expense
+2025-05-08,food & beverages,21251,Food
+2025-05-09,transportation,26300,Transportation expense
+2025-05-09,food & beverages,44277,Beverage
+2025-05-09,utilities,59576,Internet
+2025-05-09,transportation,47500,Transportation expense
+2025-05-09,food & beverages,60401,Food
+2025-05-09,food & beverages,45500,Food
+2025-05-09,food & beverages,47933,Food
+2025-05-10,utilities,68174,Internet
+2025-05-10,transportation,24400,Transportation expense
+2025-05-10,other,72676,Other expense
+2025-05-10,food & beverages,54697,Food
+2025-05-10,transportation,46000,Transportation expense
+2025-05-10,other,80453,Other expense
+2025-05-10,utilities,52435,Water bill
+2025-05-10,utilities,88879,Electric bill
+2025-05-10,transportation,33700,Transportation expense
+2025-05-11,food & beverages,74171,Food
+2025-05-11,transportation,47500,Transportation expense
+2025-05-11,transportation,20800,Transportation expense
+2025-05-11,food & beverages,22617,Food
+2025-05-11,utilities,31919,Tax
+2025-05-11,health,78390,Health expense
+2025-05-12,transportation,39900,Transportation expense
+2025-05-12,transportation,46600,Transportation expense
+2025-05-12,transportation,30200,Transportation expense
+2025-05-12,utilities,53352,Tax
+2025-05-12,utilities,95800,Water bill
+2025-05-13,entertainment,280632,Shopping
+2025-05-13,transportation,13900,Transportation expense
+2025-05-13,other,19046,Other expense
+2025-05-13,other,71875,Other expense
+2025-05-13,food & beverages,65395,Food
+2025-05-13,food & beverages,62794,Food
+2025-05-14,transportation,35100,Transportation expense
+2025-05-14,transportation,34700,Transportation expense
+2025-05-14,transportation,45300,Transportation expense
+2025-05-14,food & beverages,22774,Food
+2025-05-14,food & beverages,49658,Food
+2025-05-14,food & beverages,69710,Food
+2025-05-14,food & beverages,34553,Beverage
+2025-05-14,transportation,45700,Transportation expense
+2025-05-14,transportation,34900,Transportation expense
+2025-05-14,health,52441,Health expense
+2025-05-14,transportation,20200,Transportation expense
+2025-05-14,food & beverages,62515,Food
+2025-05-14,utilities,74950,Electric bill
+2025-05-14,transportation,11000,Transportation expense
+2025-05-14,food & beverages,53924,Beverage
+2025-05-15,utilities,52077,Electric bill
+2025-05-15,utilities,77535,Tax
+2025-05-15,food & beverages,71605,Beverage
+2025-05-15,utilities,86046,Water bill
+2025-05-27,entertainment,453198,Shopping
+2025-06-01,health,300000,Gym membership
+2025-06-01,utilities,81112,Tax
+2025-06-01,transportation,33500,Transportation expense
+2025-06-01,food & beverages,72855,Beverage
+2025-06-01,transportation,16500,Transportation expense
+2025-06-01,utilities,61973,Tax
+2025-06-01,other,58589,Other expense
+2025-06-01,food & beverages,71628,Beverage
+2025-06-02,food & beverages,53275,Food
+2025-06-02,transportation,37400,Transportation expense
+2025-06-02,food & beverages,30074,Beverage
+2025-06-02,transportation,26100,Transportation expense
+2025-06-02,transportation,32100,Transportation expense
+2025-06-02,food & beverages,78341,Food
+2025-06-02,utilities,80401,Tax
+2025-06-02,food & beverages,26092,Food
+2025-06-03,transportation,45500,Transportation expense
+2025-06-03,other,17698,Other expense
+2025-06-03,transportation,14900,Transportation expense
+2025-06-03,other,97584,Other expense
+2025-06-03,food & beverages,24010,Beverage
+2025-06-03,health,50334,Health expense
+2025-06-03,food & beverages,29334,Beverage
+2025-06-04,food & beverages,76204,Food
+2025-06-04,transportation,41700,Transportation expense
+2025-06-04,utilities,20866,Electric bill
+2025-06-04,transportation,37000,Transportation expense
+2025-06-04,food & beverages,33005,Food
+2025-06-04,transportation,28800,Transportation expense
+2025-06-04,food & beverages,59173,Food
+2025-06-04,transportation,21700,Transportation expense
+2025-06-04,food & beverages,24758,Beverage
+2025-06-04,food & beverages,31542,Food
+2025-06-04,utilities,72022,Internet
+2025-06-04,food & beverages,45080,Food
+2025-06-04,transportation,24800,Transportation expense
+2025-06-05,health,105686,Health expense
+2025-06-05,other,95182,Other expense
+2025-06-05,utilities,73120,Electric bill
+2025-06-05,transportation,46200,Transportation expense
+2025-06-05,transportation,10600,Transportation expense
+2025-06-05,utilities,85517,Electric bill
+2025-06-05,health,104529,Health expense
+2025-06-05,utilities,89226,Electric bill
+2025-06-05,other,40115,Other expense
+2025-06-06,utilities,55532,Tax
+2025-06-06,food & beverages,75659,Beverage
+2025-06-06,food & beverages,58129,Food
+2025-06-06,food & beverages,35610,Food
+2025-06-06,food & beverages,24449,Beverage
+2025-06-06,utilities,30084,Tax
+2025-06-06,food & beverages,52138,Food
+2025-06-06,health,71007,Health expense
+2025-06-07,food & beverages,24171,Food
+2025-06-07,utilities,85639,Electric bill
+2025-06-07,utilities,27038,Internet
+2025-06-07,food & beverages,19981,Beverage
+2025-06-07,food & beverages,77577,Food
+2025-06-07,transportation,31400,Transportation expense
+2025-06-07,food & beverages,44527,Beverage
+2025-06-07,transportation,33300,Transportation expense
+2025-06-07,transportation,34600,Transportation expense
+2025-06-07,transportation,48400,Transportation expense
+2025-06-07,utilities,58715,Electric bill
+2025-06-07,utilities,30752,Electric bill
+2025-06-07,food & beverages,66373,Beverage
+2025-06-07,transportation,35500,Transportation expense
+2025-06-07,food & beverages,15340,Beverage
+2025-06-08,utilities,37367,Electric bill
+2025-06-08,food & beverages,51502,Food
+2025-06-08,transportation,36700,Transportation expense
+2025-06-08,food & beverages,51321,Beverage
+2025-06-08,food & beverages,36261,Food
+2025-06-08,health,21617,Health expense
+2025-06-08,food & beverages,20550,Beverage
+2025-06-08,utilities,94967,Water bill
+2025-06-08,transportation,35000,Transportation expense
+2025-06-09,entertainment,257879,Cinema
+2025-06-09,transportation,14100,Transportation expense
+2025-06-09,food & beverages,34644,Beverage
+2025-06-09,transportation,15000,Transportation expense
+2025-06-09,food & beverages,62244,Food
+2025-06-09,transportation,48900,Transportation expense
+2025-06-09,transportation,40000,Transportation expense
+2025-06-10,entertainment,103548,Arcade
+2025-06-10,food & beverages,67695,Food
+2025-06-10,health,77700,Health expense
+2025-06-10,food & beverages,71328,Food
+2025-06-10,utilities,59378,Water bill
+2025-06-10,food & beverages,28163,Food
+2025-06-11,other,51830,Other expense
+2025-06-11,food & beverages,47178,Food
+2025-06-11,other,41775,Other expense
+2025-06-11,food & beverages,66502,Beverage
+2025-06-11,transportation,17500,Transportation expense
+2025-06-11,other,36188,Other expense
+2025-06-11,transportation,45800,Transportation expense
+2025-06-11,food & beverages,16763,Food
+2025-06-11,other,70505,Other expense
+2025-06-11,other,37479,Other expense
+2025-06-11,transportation,29100,Transportation expense
+2025-06-11,health,29064,Health expense
+2025-06-12,food & beverages,31559,Beverage
+2025-06-12,utilities,69412,Tax
+2025-06-12,food & beverages,46407,Food
+2025-06-12,transportation,45000,Transportation expense
+2025-06-12,transportation,37400,Transportation expense
+2025-06-12,transportation,33600,Transportation expense
+2025-06-12,utilities,34335,Electric bill
+2025-06-12,utilities,41802,Internet
+2025-06-12,utilities,93822,Electric bill
+2025-06-12,other,98797,Other expense
+2025-06-12,utilities,76420,Internet
+2025-06-13,entertainment,235653,Karaoke
+2025-06-13,transportation,44000,Transportation expense
+2025-06-13,transportation,47700,Transportation expense
+2025-06-13,food & beverages,45347,Beverage
+2025-06-13,utilities,65215,Water bill
+2025-06-13,other,73277,Other expense
+2025-06-14,entertainment,145012,Shopping
+2025-06-14,health,115702,Health expense
+2025-06-14,food & beverages,44840,Beverage
+2025-06-14,utilities,65652,Tax
+2025-06-14,transportation,38700,Transportation expense
+2025-06-14,utilities,61800,Tax
+2025-06-15,utilities,22960,Electric bill
+2025-06-15,health,104930,Health expense
+2025-06-15,food & beverages,75943,Food
+2025-06-15,other,41970,Other expense
+2025-06-15,transportation,46200,Transportation expense
+2025-06-15,food & beverages,77813,Food
+2025-06-16,entertainment,312361,Karaoke
+2025-06-16,food & beverages,40924,Food
+2025-06-16,food & beverages,27931,Food
+2025-06-16,transportation,38200,Transportation expense
+2025-06-16,transportation,24100,Transportation expense
+2025-06-16,food & beverages,68000,Food
+2025-06-16,utilities,90371,Electric bill
+2025-06-16,food & beverages,44986,Beverage
+2025-06-16,food & beverages,47078,Food
+2025-06-16,transportation,30500,Transportation expense
+2025-06-16,transportation,35700,Transportation expense
+2025-06-16,transportation,32800,Transportation expense
+2025-06-17,transportation,29500,Transportation expense
+2025-06-17,other,87354,Other expense
+2025-06-22,entertainment,288239,Shopping
+2025-07-01,health,300000,Gym membership
+2025-07-01,entertainment,116898,Arcade
+2025-07-01,food & beverages,20700,Food
+2025-07-01,transportation,17700,Transportation expense
+2025-07-01,utilities,47509,Water bill
+2025-07-01,utilities,99988,Internet
+2025-07-01,transportation,20900,Transportation expense
+2025-07-01,transportation,23500,Transportation expense
+2025-07-02,transportation,44900,Transportation expense
+2025-07-02,food & beverages,36210,Food
+2025-07-02,other,48356,Other expense
+2025-07-02,food & beverages,71230,Beverage
+2025-07-02,transportation,16200,Transportation expense
+2025-07-02,food & beverages,41974,Food
+2025-07-02,other,46349,Other expense
+2025-07-02,health,36631,Health expense
+2025-07-03,entertainment,472975,Cinema
+2025-07-03,health,119807,Health expense
+2025-07-03,health,71472,Health expense
+2025-07-03,transportation,47800,Transportation expense
+2025-07-03,transportation,37100,Transportation expense
+2025-07-03,transportation,14900,Transportation expense
+2025-07-03,transportation,16100,Transportation expense
+2025-07-04,food & beverages,39187,Food
+2025-07-04,transportation,42000,Transportation expense
+2025-07-04,food & beverages,65733,Beverage
+2025-07-04,health,32208,Health expense
+2025-07-04,utilities,66952,Tax
+2025-07-04,health,90048,Health expense
+2025-07-04,transportation,38200,Transportation expense
+2025-07-04,health,84843,Health expense
+2025-07-04,food & beverages,37135,Food
+2025-07-04,transportation,18600,Transportation expense
+2025-07-04,transportation,41800,Transportation expense
+2025-07-05,utilities,33051,Electric bill
+2025-07-05,transportation,40100,Transportation expense
+2025-07-05,food & beverages,25353,Food
+2025-07-05,transportation,10000,Transportation expense
+2025-07-05,other,66072,Other expense
+2025-07-05,food & beverages,23645,Food
+2025-07-05,health,59566,Health expense
+2025-07-05,food & beverages,32958,Food
+2025-07-05,food & beverages,20401,Beverage
+2025-07-05,transportation,20800,Transportation expense
+2025-07-06,food & beverages,30344,Food
+2025-07-06,transportation,16000,Transportation expense
+2025-07-06,utilities,47973,Electric bill
+2025-07-06,transportation,18700,Transportation expense
+2025-07-06,transportation,44000,Transportation expense
+2025-07-07,food & beverages,22903,Beverage
+2025-07-07,other,65353,Other expense
+2025-07-07,utilities,29283,Tax
+2025-07-07,food & beverages,67819,Beverage
+2025-07-07,food & beverages,72736,Beverage
+2025-07-07,food & beverages,68304,Beverage
+2025-07-07,utilities,38724,Water bill
+2025-07-07,food & beverages,54997,Food
+2025-07-07,utilities,66030,Tax
+2025-07-07,utilities,73963,Water bill
+2025-07-07,transportation,39000,Transportation expense
+2025-07-07,health,31362,Health expense
+2025-07-07,health,38351,Health expense
+2025-07-07,utilities,66076,Tax
+2025-07-07,other,51222,Other expense
+2025-07-08,entertainment,437966,Shopping
+2025-07-08,food & beverages,62263,Food
+2025-07-08,transportation,11800,Transportation expense
+2025-07-08,health,106298,Health expense
+2025-07-08,health,46928,Health expense
+2025-07-08,transportation,43400,Transportation expense
+2025-07-08,food & beverages,57347,Beverage
+2025-07-09,utilities,84865,Water bill
+2025-07-09,transportation,25800,Transportation expense
+2025-07-09,transportation,48900,Transportation expense
+2025-07-09,food & beverages,15790,Food
+2025-07-09,other,51480,Other expense
+2025-07-10,health,75163,Health expense
+2025-07-10,transportation,21300,Transportation expense
+2025-07-10,utilities,22187,Electric bill
+2025-07-10,transportation,10900,Transportation expense
+2025-07-10,food & beverages,18962,Beverage
+2025-07-10,other,62163,Other expense
+2025-07-10,transportation,42800,Transportation expense
+2025-07-11,transportation,45200,Transportation expense
+2025-07-11,transportation,20000,Transportation expense
+2025-07-11,food & beverages,48508,Beverage
+2025-07-11,other,30365,Other expense
+2025-07-11,transportation,35600,Transportation expense
+2025-07-11,transportation,14300,Transportation expense
+2025-07-11,food & beverages,77483,Food
+2025-07-11,health,27589,Health expense
+2025-07-11,food & beverages,22601,Food
+2025-07-11,transportation,49900,Transportation expense
+2025-07-11,food & beverages,58126,Food
+2025-07-12,entertainment,471143,Karaoke
+2025-07-12,utilities,85065,Water bill
+2025-07-12,other,78551,Other expense
+2025-07-12,transportation,27000,Transportation expense
+2025-07-12,food & beverages,66191,Beverage
+2025-07-12,health,116067,Health expense
+2025-07-12,health,23847,Health expense
+2025-07-13,food & beverages,61682,Beverage
+2025-07-13,other,92251,Other expense
+2025-07-13,food & beverages,38601,Food
+2025-07-13,food & beverages,25936,Food
+2025-07-13,transportation,26700,Transportation expense
+2025-07-13,utilities,49937,Electric bill
+2025-07-13,utilities,25772,Electric bill
+2025-07-13,health,21610,Health expense
+2025-07-13,food & beverages,40098,Food
+2025-07-13,other,33456,Other expense
+2025-07-14,other,95944,Other expense
+2025-07-14,transportation,31100,Transportation expense
+2025-07-14,food & beverages,35967,Food
+2025-07-14,food & beverages,39432,Beverage
+2025-07-14,food & beverages,18451,Food
+2025-07-15,entertainment,370414,Shopping
+2025-07-15,other,19034,Other expense
+2025-07-15,health,57002,Health expense
+2025-07-15,utilities,62899,Internet
+2025-07-15,food & beverages,39177,Food
+2025-07-15,food & beverages,34917,Food
+2025-07-15,utilities,80807,Water bill
+2025-07-16,transportation,22800,Transportation expense
+2025-07-16,utilities,39735,Water bill
+2025-07-16,food & beverages,30269,Food
+2025-07-16,transportation,10600,Transportation expense
+2025-07-16,other,10191,Other expense
+2025-07-16,utilities,60306,Tax
+2025-07-16,food & beverages,30608,Food
+2025-07-16,transportation,13900,Transportation expense
+2025-07-16,other,28661,Other expense
+2025-07-16,utilities,25754,Electric bill
+2025-07-17,transportation,34400,Transportation expense
+2025-07-17,transportation,15600,Transportation expense
+2025-07-17,transportation,43100,Transportation expense
+2025-07-17,food & beverages,19904,Food
+2025-07-17,transportation,14100,Transportation expense
+2025-07-18,entertainment,265155,Arcade
+2025-08-01,health,300000,Gym membership
+2025-08-01,food & beverages,68038,Food
+2025-08-01,food & beverages,69352,Food
+2025-08-01,utilities,25596,Electric bill
+2025-08-01,other,16637,Other expense
+2025-08-02,transportation,35900,Transportation expense
+2025-08-02,transportation,35100,Transportation expense
+2025-08-02,utilities,66392,Water bill
+2025-08-02,food & beverages,33340,Beverage
+2025-08-02,transportation,19700,Transportation expense
+2025-08-02,food & beverages,31107,Food
+2025-08-02,utilities,74000,Tax
+2025-08-03,food & beverages,42474,Beverage
+2025-08-03,food & beverages,49459,Food
+2025-08-03,food & beverages,50629,Food
+2025-08-03,utilities,67069,Tax
+2025-08-03,transportation,41800,Transportation expense
+2025-08-03,food & beverages,36076,Food
+2025-08-03,transportation,21800,Transportation expense
+2025-08-03,food & beverages,16920,Food
+2025-08-03,health,56822,Health expense
+2025-08-03,food & beverages,49696,Food
+2025-08-03,food & beverages,30254,Food
+2025-08-03,other,23124,Other expense
+2025-08-03,food & beverages,49975,Beverage
+2025-08-04,other,85457,Other expense
+2025-08-04,health,70911,Health expense
+2025-08-04,food & beverages,70392,Food
+2025-08-04,food & beverages,35840,Beverage
+2025-08-04,utilities,97537,Internet
+2025-08-05,food & beverages,24312,Food
+2025-08-05,transportation,22300,Transportation expense
+2025-08-05,health,84517,Health expense
+2025-08-05,transportation,21500,Transportation expense
+2025-08-05,transportation,15900,Transportation expense
+2025-08-06,entertainment,214718,Shopping
+2025-08-06,transportation,10000,Transportation expense
+2025-08-06,food & beverages,67851,Food
+2025-08-06,food & beverages,75213,Food
+2025-08-06,utilities,27806,Internet
+2025-08-07,entertainment,469463,Karaoke
+2025-08-07,utilities,29506,Internet
+2025-08-07,transportation,35900,Transportation expense
+2025-08-07,transportation,32100,Transportation expense
+2025-08-07,food & beverages,25322,Beverage
+2025-08-08,other,95089,Other expense
+2025-08-08,food & beverages,51829,Food
+2025-08-08,utilities,49260,Internet
+2025-08-08,utilities,69595,Water bill
+2025-08-08,food & beverages,23345,Food
+2025-08-08,food & beverages,61006,Beverage
+2025-08-08,other,61327,Other expense
+2025-08-08,health,94381,Health expense
+2025-08-08,food & beverages,75361,Food
+2025-08-08,utilities,94127,Water bill
+2025-08-08,food & beverages,36703,Food
+2025-08-09,entertainment,267519,Karaoke
+2025-08-09,transportation,15800,Transportation expense
+2025-08-09,health,107821,Health expense
+2025-08-09,utilities,78540,Internet
+2025-08-09,food & beverages,60427,Beverage
+2025-08-09,food & beverages,22080,Beverage
+2025-08-10,entertainment,329753,Arcade
+2025-08-10,other,64266,Other expense
+2025-08-10,transportation,34800,Transportation expense
+2025-08-10,food & beverages,69316,Beverage
+2025-08-10,transportation,47900,Transportation expense
+2025-08-11,food & beverages,67376,Food
+2025-08-11,health,58654,Health expense
+2025-08-11,food & beverages,21863,Beverage
+2025-08-11,food & beverages,39606,Beverage
+2025-08-11,food & beverages,76724,Beverage
+2025-08-11,health,32203,Health expense
+2025-08-11,food & beverages,73538,Food
+2025-08-11,transportation,12000,Transportation expense
+2025-08-11,transportation,20800,Transportation expense
+2025-08-11,transportation,38500,Transportation expense
+2025-08-11,food & beverages,28470,Beverage
+2025-08-11,other,63645,Other expense
+2025-08-11,utilities,56899,Internet
+2025-08-11,food & beverages,40749,Beverage
+2025-08-11,transportation,42200,Transportation expense
+2025-08-12,entertainment,102000,Arcade
+2025-08-12,food & beverages,55965,Food
+2025-08-12,transportation,23100,Transportation expense
+2025-08-12,food & beverages,56824,Beverage
+2025-08-12,food & beverages,70297,Beverage
+2025-08-12,food & beverages,45863,Food
+2025-08-12,transportation,27400,Transportation expense
+2025-08-13,transportation,34300,Transportation expense
+2025-08-13,health,68418,Health expense
+2025-08-13,food & beverages,43818,Beverage
+2025-08-13,transportation,24800,Transportation expense
+2025-08-13,health,93956,Health expense
+2025-08-13,food & beverages,58743,Food
+2025-08-14,entertainment,280245,Arcade
+2025-08-14,other,87296,Other expense
+2025-08-14,food & beverages,40369,Beverage
+2025-08-14,health,74870,Health expense
+2025-08-14,other,72236,Other expense
+2025-08-14,transportation,25400,Transportation expense
+2025-08-15,entertainment,306991,Shopping
+2025-08-15,transportation,43900,Transportation expense
+2025-08-15,utilities,35765,Water bill
+2025-08-15,other,68856,Other expense
+2025-08-15,food & beverages,78711,Food
+2025-08-15,food & beverages,17796,Beverage
+2025-08-15,transportation,38500,Transportation expense
+2025-08-15,food & beverages,24691,Food
+2025-08-15,health,53801,Health expense
+2025-08-15,food & beverages,67910,Food
+2025-08-15,food & beverages,41041,Beverage
+2025-08-15,transportation,28100,Transportation expense
+2025-08-16,health,111804,Health expense
+2025-08-16,transportation,44200,Transportation expense
+2025-08-16,utilities,74321,Electric bill
+2025-08-16,food & beverages,53186,Food
+2025-08-16,utilities,33845,Electric bill
+2025-08-16,transportation,16600,Transportation expense
+2025-08-16,utilities,73856,Internet
+2025-08-16,food & beverages,52488,Food
+2025-08-16,transportation,12500,Transportation expense
+2025-08-16,food & beverages,55517,Food
+2025-08-16,transportation,36300,Transportation expense
+2025-08-16,food & beverages,36724,Food
+2025-08-16,utilities,82287,Electric bill
+2025-08-17,food & beverages,34861,Food
+2025-08-17,food & beverages,71245,Food
+2025-08-17,utilities,49878,Electric bill
+2025-08-17,food & beverages,44039,Food
+2025-08-17,utilities,55313,Internet
+2025-08-17,utilities,44633,Electric bill
+2025-08-17,transportation,36700,Transportation expense
+2025-08-17,utilities,27367,Internet
+2025-08-17,transportation,20400,Transportation expense
+2025-08-18,transportation,18900,Transportation expense
+2025-08-18,utilities,42772,Electric bill
+2025-08-18,food & beverages,69852,Food
+2025-08-18,food & beverages,18313,Beverage
+2025-08-18,other,36097,Other expense
+2025-08-18,food & beverages,48103,Food
+2025-08-19,food & beverages,39409,Beverage
+2025-08-19,transportation,39200,Transportation expense
+2025-08-19,food & beverages,53461,Food
+2025-08-19,transportation,32600,Transportation expense
+2025-08-19,food & beverages,64083,Food
+2025-08-19,health,31847,Health expense
+2025-08-19,food & beverages,25676,Beverage
+2025-08-19,health,48091,Health expense
+2025-08-19,health,104853,Health expense
+2025-08-19,food & beverages,57702,Beverage
+2025-08-19,transportation,11300,Transportation expense
+2025-08-20,entertainment,169370,Karaoke
+2025-08-20,transportation,10600,Transportation expense
+2025-08-20,food & beverages,76800,Food
+2025-08-20,food & beverages,57122,Food
+2025-08-20,food & beverages,70809,Food
+2025-08-20,food & beverages,45585,Beverage
+2025-08-20,food & beverages,55868,Food
+2025-08-20,transportation,16700,Transportation expense
+2025-08-20,food & beverages,78339,Food
+2025-08-20,health,69051,Health expense
+2025-08-20,transportation,48900,Transportation expense
+2025-08-20,transportation,29600,Transportation expense
+2025-08-20,utilities,28367,Tax
+2025-08-20,food & beverages,36308,Beverage
+2025-08-20,health,54229,Health expense
+2025-08-21,health,59163,Health expense
+2025-08-21,food & beverages,30748,Food
+2025-08-21,health,98647,Health expense
+2025-08-21,transportation,30900,Transportation expense
+2025-08-21,utilities,85191,Electric bill
+2025-08-21,other,44003,Other expense
+2025-08-21,health,73031,Health expense
+2025-08-21,transportation,12300,Transportation expense
+2025-08-21,transportation,47500,Transportation expense
+2025-08-21,utilities,49145,Internet
+2025-08-21,utilities,66988,Tax
+2025-08-21,transportation,21100,Transportation expense
+2025-08-21,health,93170,Health expense
+2025-08-21,food & beverages,23384,Beverage
+2025-08-21,utilities,63992,Water bill
+2025-08-22,entertainment,286270,Karaoke
+2025-08-22,utilities,75112,Internet
+2025-08-22,utilities,68717,Internet
+2025-08-22,food & beverages,70785,Beverage
+2025-08-22,food & beverages,56575,Beverage
+2025-08-22,transportation,14700,Transportation expense
+2025-08-22,transportation,22700,Transportation expense
+2025-08-22,transportation,35000,Transportation expense
+2025-08-22,transportation,37100,Transportation expense
+2025-08-22,food & beverages,24002,Food
+2025-08-25,food & beverages,15308,Food
+2025-08-27,entertainment,327389,Arcade
+2025-09-01,health,300000,Gym membership
+2025-09-01,entertainment,123969,Cinema
+2025-09-01,other,69759,Other expense
+2025-09-01,utilities,76841,Internet
+2025-09-01,health,37536,Health expense
+2025-09-01,food & beverages,38543,Food
+2025-09-01,utilities,72873,Water bill
+2025-09-01,food & beverages,79545,Beverage
+2025-09-01,food & beverages,53646,Food
+2025-09-02,entertainment,292199,Shopping
+2025-09-02,transportation,26800,Transportation expense
+2025-09-02,utilities,97846,Electric bill
+2025-09-02,other,96765,Other expense
+2025-09-02,food & beverages,18161,Food
+2025-09-02,utilities,78237,Tax
+2025-09-02,transportation,45900,Transportation expense
+2025-09-02,food & beverages,28467,Food
+2025-09-02,utilities,59467,Electric bill
+2025-09-02,transportation,16600,Transportation expense
+2025-09-02,utilities,99381,Internet
+2025-09-02,utilities,33751,Tax
+2025-09-02,transportation,17700,Transportation expense
+2025-09-03,entertainment,155712,Arcade
+2025-09-03,food & beverages,32235,Beverage
+2025-09-03,health,46433,Health expense
+2025-09-03,food & beverages,25510,Food
+2025-09-03,food & beverages,28611,Food
+2025-09-03,utilities,63332,Tax
+2025-09-03,food & beverages,20832,Beverage
+2025-09-03,health,95255,Health expense
+2025-09-03,utilities,31807,Water bill
+2025-09-04,entertainment,479362,Shopping
+2025-09-04,health,104454,Health expense
+2025-09-04,food & beverages,34400,Food
+2025-09-04,food & beverages,68292,Beverage
+2025-09-04,food & beverages,34042,Beverage
+2025-09-04,food & beverages,42918,Food
+2025-09-04,utilities,26014,Electric bill
+2025-09-04,food & beverages,57414,Beverage
+2025-09-04,food & beverages,43686,Beverage
+2025-09-04,other,45167,Other expense
+2025-09-04,health,32183,Health expense
+2025-09-04,transportation,32500,Transportation expense
+2025-09-04,food & beverages,78065,Food
+2025-09-05,entertainment,302226,Arcade
+2025-09-05,utilities,34818,Water bill
+2025-09-05,food & beverages,79328,Food
+2025-09-05,other,30892,Other expense
+2025-09-05,food & beverages,46632,Food
+2025-09-05,utilities,43758,Tax
+2025-09-05,transportation,33500,Transportation expense
+2025-09-05,transportation,18600,Transportation expense
+2025-09-05,transportation,42000,Transportation expense
+2025-09-05,food & beverages,18012,Food
+2025-09-05,food & beverages,15810,Food
+2025-09-05,utilities,64341,Water bill
+2025-09-06,utilities,76734,Electric bill
+2025-09-06,utilities,83167,Water bill
+2025-09-06,food & beverages,40223,Food
+2025-09-06,food & beverages,73462,Food
+2025-09-06,other,17152,Other expense
+2025-09-06,food & beverages,48132,Food
+2025-09-06,health,84990,Health expense
+2025-09-06,health,29812,Health expense
+2025-09-06,utilities,51574,Internet
+2025-09-06,food & beverages,48222,Beverage
+2025-09-06,food & beverages,41429,Food
+2025-09-06,utilities,80174,Electric bill
+2025-09-06,transportation,47600,Transportation expense
+2025-09-07,entertainment,361334,Arcade
+2025-09-07,food & beverages,63839,Food
+2025-09-07,utilities,72879,Electric bill
+2025-09-07,transportation,46500,Transportation expense
+2025-09-07,transportation,16000,Transportation expense
+2025-09-07,utilities,86628,Internet
+2025-09-07,transportation,39900,Transportation expense
+2025-09-07,other,57624,Other expense
+2025-09-07,health,49218,Health expense
+2025-09-07,health,63512,Health expense
+2025-09-07,transportation,49300,Transportation expense
+2025-09-07,transportation,33800,Transportation expense
+2025-09-08,entertainment,498102,Karaoke
+2025-09-08,food & beverages,56527,Beverage
+2025-09-08,other,48270,Other expense
+2025-09-08,transportation,34500,Transportation expense
+2025-09-08,utilities,41516,Electric bill
+2025-09-08,transportation,36800,Transportation expense
+2025-09-08,food & beverages,27290,Food
+2025-09-08,food & beverages,29128,Food
+2025-09-08,transportation,22500,Transportation expense
+2025-09-08,utilities,74325,Electric bill
+2025-09-08,food & beverages,59049,Food
+2025-09-08,transportation,39500,Transportation expense
+2025-09-09,other,27647,Other expense
+2025-09-09,other,10568,Other expense
+2025-09-09,transportation,13200,Transportation expense
+2025-09-09,transportation,38400,Transportation expense
+2025-09-09,health,83298,Health expense
+2025-09-09,other,33226,Other expense
+2025-09-09,utilities,36827,Water bill
+2025-09-09,food & beverages,54725,Food
+2025-09-09,health,86074,Health expense
+2025-09-09,health,74875,Health expense
+2025-09-09,other,42537,Other expense
+2025-09-09,food & beverages,78602,Food
+2025-09-10,food & beverages,60876,Food
+2025-09-10,health,87147,Health expense
+2025-09-10,food & beverages,71407,Food
+2025-09-10,food & beverages,51279,Food
+2025-09-10,transportation,23200,Transportation expense
+2025-09-10,food & beverages,59997,Food
+2025-09-10,food & beverages,79312,Food
+2025-09-14,transportation,11700,Transportation expense
+2025-09-15,entertainment,239973,Karaoke
+2025-10-01,health,300000,Gym membership
+2025-10-01,transportation,14800,Transportation expense
+2025-10-01,utilities,88864,Internet
+2025-10-01,food & beverages,19468,Beverage
+2025-10-01,utilities,74516,Water bill
+2025-10-01,transportation,36400,Transportation expense
+2025-10-01,food & beverages,28982,Beverage
+2025-10-01,utilities,67290,Internet
+2025-10-01,food & beverages,55519,Food
+2025-10-01,transportation,46800,Transportation expense
+2025-10-01,health,105105,Health expense
+2025-10-01,food & beverages,44207,Food
+2025-10-02,transportation,26000,Transportation expense
+2025-10-02,other,99463,Other expense
+2025-10-02,health,69987,Health expense
+2025-10-02,other,24860,Other expense
+2025-10-02,transportation,45400,Transportation expense
+2025-10-02,utilities,87746,Electric bill
+2025-10-02,health,69146,Health expense
+2025-10-02,transportation,43300,Transportation expense
+2025-10-03,food & beverages,35992,Food
+2025-10-03,transportation,16300,Transportation expense
+2025-10-03,food & beverages,50256,Food
+2025-10-03,transportation,14300,Transportation expense
+2025-10-03,food & beverages,28970,Food
+2025-10-03,health,75601,Health expense
+2025-10-03,health,46945,Health expense
+2025-10-03,transportation,38500,Transportation expense
+2025-10-03,utilities,40152,Electric bill
+2025-10-03,food & beverages,17482,Food
+2025-10-03,food & beverages,67049,Beverage
+2025-10-03,food & beverages,68845,Beverage
+2025-10-04,transportation,39600,Transportation expense
+2025-10-04,transportation,38400,Transportation expense
+2025-10-04,food & beverages,22753,Beverage
+2025-10-04,transportation,14100,Transportation expense
+2025-10-04,utilities,29514,Electric bill
+2025-10-04,food & beverages,33994,Food
+2025-10-04,utilities,99503,Internet
+2025-10-04,food & beverages,43683,Food
+2025-10-05,utilities,40489,Tax
+2025-10-05,transportation,18900,Transportation expense
+2025-10-05,utilities,38884,Internet
+2025-10-05,food & beverages,78266,Food
+2025-10-05,utilities,21461,Internet
+2025-10-05,transportation,46400,Transportation expense
+2025-10-05,food & beverages,52533,Beverage
+2025-10-05,transportation,45200,Transportation expense
+2025-10-05,transportation,15600,Transportation expense
+2025-10-05,food & beverages,74214,Food
+2025-10-05,utilities,74087,Water bill
+2025-10-06,food & beverages,55428,Beverage
+2025-10-06,health,45470,Health expense
+2025-10-06,food & beverages,52178,Food
+2025-10-06,health,118440,Health expense
+2025-10-06,other,81939,Other expense
+2025-10-06,transportation,46000,Transportation expense
+2025-10-06,food & beverages,31429,Food
+2025-10-06,food & beverages,46928,Food
+2025-10-06,other,56810,Other expense
+2025-10-06,food & beverages,21556,Food
+2025-10-06,food & beverages,27681,Beverage
+2025-10-06,food & beverages,55392,Food
+2025-10-06,utilities,94128,Water bill
+2025-10-06,transportation,30700,Transportation expense
+2025-10-06,other,32103,Other expense
+2025-10-07,utilities,56264,Tax
+2025-10-07,health,37603,Health expense
+2025-10-07,utilities,82908,Internet
+2025-10-07,transportation,33500,Transportation expense
+2025-10-07,utilities,92308,Tax
+2025-10-08,entertainment,418047,Shopping
+2025-10-08,health,38350,Health expense
+2025-10-08,health,45746,Health expense
+2025-10-08,food & beverages,20011,Food
+2025-10-08,utilities,86476,Electric bill
+2025-10-08,transportation,48100,Transportation expense
+2025-10-09,transportation,12400,Transportation expense
+2025-10-09,transportation,45600,Transportation expense
+2025-10-09,health,90736,Health expense
+2025-10-09,transportation,19700,Transportation expense
+2025-10-09,transportation,24600,Transportation expense
+2025-10-09,health,97280,Health expense
+2025-10-09,utilities,37548,Internet
+2025-10-09,transportation,43400,Transportation expense
+2025-10-09,food & beverages,15694,Beverage
+2025-10-09,utilities,87388,Water bill
+2025-10-09,food & beverages,52116,Beverage
+2025-10-09,other,96430,Other expense
+2025-10-09,health,39162,Health expense
+2025-10-09,utilities,67028,Tax
+2025-10-10,entertainment,355664,Karaoke
+2025-10-10,food & beverages,17805,Beverage
+2025-10-10,utilities,70868,Internet
+2025-10-10,transportation,39800,Transportation expense
+2025-10-10,health,25230,Health expense
+2025-10-11,utilities,54513,Internet
+2025-10-11,transportation,47400,Transportation expense
+2025-10-11,food & beverages,38940,Food
+2025-10-11,transportation,15100,Transportation expense
+2025-10-11,transportation,34700,Transportation expense
+2025-10-11,other,39215,Other expense
+2025-10-11,transportation,33100,Transportation expense
+2025-10-11,utilities,83813,Internet
+2025-10-11,utilities,85776,Electric bill
+2025-10-11,health,77658,Health expense
+2025-10-11,food & beverages,57170,Beverage
+2025-10-11,food & beverages,25312,Beverage
+2025-10-11,food & beverages,22754,Food
+2025-10-11,utilities,63283,Tax
+2025-10-11,utilities,82759,Tax
+2025-10-12,entertainment,184539,Arcade
+2025-10-12,food & beverages,52584,Beverage
+2025-10-12,transportation,18800,Transportation expense
+2025-10-12,transportation,12600,Transportation expense
+2025-10-12,health,39249,Health expense
+2025-10-12,food & beverages,26798,Beverage
+2025-10-12,transportation,36600,Transportation expense
+2025-10-12,transportation,46900,Transportation expense
+2025-10-12,utilities,31239,Internet
+2025-10-12,food & beverages,45894,Food
+2025-10-12,health,42356,Health expense
+2025-10-12,food & beverages,24352,Food
+2025-10-13,food & beverages,32335,Food
+2025-10-13,food & beverages,75447,Food
+2025-10-13,transportation,48700,Transportation expense
+2025-10-13,food & beverages,23664,Beverage
+2025-10-13,food & beverages,71334,Beverage
+2025-10-13,other,99701,Other expense
+2025-10-13,transportation,19800,Transportation expense
+2025-10-13,transportation,21600,Transportation expense
+2025-10-13,transportation,49300,Transportation expense
+2025-10-13,food & beverages,47986,Food
+2025-10-13,utilities,83208,Electric bill
+2025-10-13,utilities,76557,Electric bill
+2025-10-13,transportation,34300,Transportation expense
+2025-10-13,health,111441,Health expense
+2025-10-14,other,73192,Other expense
+2025-10-14,utilities,65943,Tax
+2025-10-14,transportation,47800,Transportation expense
+2025-10-14,food & beverages,46269,Beverage
+2025-10-14,utilities,57128,Electric bill
+2025-10-14,transportation,45600,Transportation expense
+2025-10-14,transportation,22400,Transportation expense
+2025-10-14,food & beverages,15466,Food
+2025-10-14,transportation,17700,Transportation expense
+2025-10-14,transportation,34600,Transportation expense
+2025-10-14,utilities,73588,Internet
+2025-10-14,food & beverages,57701,Beverage
+2025-10-14,transportation,27100,Transportation expense
+2025-10-15,transportation,28100,Transportation expense
+2025-10-15,other,62095,Other expense
+2025-10-15,utilities,92365,Tax
+2025-10-15,utilities,43425,Tax
+2025-10-15,transportation,46400,Transportation expense
+2025-10-15,transportation,30100,Transportation expense
+2025-10-15,transportation,36100,Transportation expense
+2025-10-15,utilities,50116,Electric bill
+2025-10-15,transportation,20600,Transportation expense
+2025-10-15,food & beverages,66516,Food
+2025-10-15,food & beverages,60682,Food
+2025-10-15,utilities,41068,Electric bill
+2025-10-15,transportation,10300,Transportation expense
+2025-10-16,transportation,49300,Transportation expense
+2025-10-16,transportation,14200,Transportation expense
+2025-10-16,food & beverages,54913,Beverage
+2025-10-16,food & beverages,79516,Beverage
+2025-10-16,transportation,44100,Transportation expense
+2025-10-16,food & beverages,18765,Food
+2025-10-17,transportation,23200,Transportation expense
+2025-10-17,health,87915,Health expense
+2025-10-17,food & beverages,54289,Beverage
+2025-10-17,transportation,25200,Transportation expense
+2025-10-17,transportation,12400,Transportation expense
+2025-10-17,food & beverages,78939,Food
+2025-10-17,food & beverages,66096,Food
+2025-10-18,transportation,48400,Transportation expense
+2025-10-18,food & beverages,61112,Beverage
+2025-10-18,food & beverages,33644,Beverage
+2025-10-18,utilities,65544,Internet
+2025-10-18,other,46242,Other expense
+2025-10-18,food & beverages,44803,Food
+2025-10-18,other,85354,Other expense
+2025-10-18,food & beverages,48176,Beverage
+2025-10-18,food & beverages,34284,Beverage
+2025-10-18,food & beverages,48638,Beverage
+2025-10-18,other,80504,Other expense
+2025-10-19,entertainment,332138,Arcade
+2025-10-19,transportation,25900,Transportation expense
+2025-10-19,utilities,80387,Tax
+2025-10-19,health,23584,Health expense
+2025-10-19,transportation,26900,Transportation expense
+2025-10-19,food & beverages,29442,Food
+2025-10-19,utilities,61383,Water bill
+2025-10-19,transportation,33100,Transportation expense
+2025-10-19,transportation,10600,Transportation expense
+2025-10-19,utilities,52539,Internet
+2025-10-19,food & beverages,64072,Beverage
+2025-10-19,health,29965,Health expense
+2025-10-19,transportation,21700,Transportation expense
+2025-10-19,transportation,33200,Transportation expense
+2025-10-20,food & beverages,59768,Food
+2025-10-20,other,34925,Other expense
+2025-10-20,transportation,23100,Transportation expense
+2025-10-20,food & beverages,32393,Beverage
+2025-10-20,food & beverages,31364,Beverage
+2025-10-20,health,66665,Health expense
+2025-10-20,food & beverages,75305,Beverage
+2025-10-20,food & beverages,47287,Food
+2025-10-21,entertainment,383888,Shopping
+2025-10-21,health,68653,Health expense
+2025-10-21,transportation,42300,Transportation expense
+2025-10-21,health,95303,Health expense
+2025-10-23,entertainment,402338,Karaoke
+2025-11-01,health,300000,Gym membership
+2025-11-01,transportation,19600,Transportation expense
+2025-11-01,utilities,81995,Water bill
+2025-11-01,utilities,75249,Water bill
+2025-11-01,transportation,43900,Transportation expense
+2025-11-01,transportation,30700,Transportation expense
+2025-11-01,utilities,52895,Internet
+2025-11-01,transportation,47200,Transportation expense
+2025-11-01,food & beverages,25704,Beverage
+2025-11-01,food & beverages,46230,Food
+2025-11-01,health,32622,Health expense
+2025-11-01,transportation,31900,Transportation expense
+2025-11-01,food & beverages,51535,Beverage
+2025-11-02,transportation,33000,Transportation expense
+2025-11-02,health,99374,Health expense
+2025-11-02,food & beverages,57541,Food
+2025-11-02,transportation,28700,Transportation expense
+2025-11-02,food & beverages,46948,Food
+2025-11-02,utilities,30277,Tax
+2025-11-02,transportation,28800,Transportation expense
+2025-11-02,transportation,19500,Transportation expense
+2025-11-02,health,103962,Health expense
+2025-11-03,transportation,36500,Transportation expense
+2025-11-03,health,29351,Health expense
+2025-11-03,food & beverages,35544,Beverage
+2025-11-03,food & beverages,32529,Beverage
+2025-11-03,transportation,35900,Transportation expense
+2025-11-03,food & beverages,71544,Food
+2025-11-03,other,86928,Other expense
+2025-11-03,transportation,39500,Transportation expense
+2025-11-03,transportation,22100,Transportation expense
+2025-11-03,health,36389,Health expense
+2025-11-04,other,20494,Other expense
+2025-11-04,food & beverages,21262,Beverage
+2025-11-04,food & beverages,50942,Food
+2025-11-04,food & beverages,49339,Food
+2025-11-04,utilities,33622,Electric bill
+2025-11-04,food & beverages,57915,Beverage
+2025-11-04,other,61097,Other expense
+2025-11-04,food & beverages,33623,Beverage
+2025-11-05,food & beverages,16872,Food
+2025-11-05,food & beverages,74983,Beverage
+2025-11-05,food & beverages,78896,Food
+2025-11-05,health,55705,Health expense
+2025-11-05,transportation,18900,Transportation expense
+2025-11-05,other,80685,Other expense
+2025-11-05,food & beverages,56356,Food
+2025-11-05,utilities,88610,Tax
+2025-11-05,utilities,65504,Internet
+2025-11-05,transportation,24900,Transportation expense
+2025-11-05,utilities,60352,Tax
+2025-11-05,transportation,27000,Transportation expense
+2025-11-06,food & beverages,70571,Food
+2025-11-06,food & beverages,50068,Beverage
+2025-11-06,food & beverages,77059,Food
+2025-11-06,utilities,21197,Internet
+2025-11-06,utilities,98250,Internet
+2025-11-06,food & beverages,39487,Beverage
+2025-11-06,food & beverages,43646,Food
+2025-11-07,entertainment,474833,Arcade
+2025-11-07,health,48913,Health expense
+2025-11-07,food & beverages,30699,Food
+2025-11-07,transportation,27800,Transportation expense
+2025-11-07,food & beverages,68006,Food
+2025-11-07,food & beverages,19486,Beverage
+2025-11-07,food & beverages,56739,Beverage
+2025-11-07,transportation,39700,Transportation expense
+2025-11-07,food & beverages,27306,Food
+2025-11-07,food & beverages,78551,Beverage
+2025-11-07,transportation,22200,Transportation expense
+2025-11-08,entertainment,165556,Arcade
+2025-11-08,utilities,31822,Water bill
+2025-11-08,food & beverages,37407,Food
+2025-11-08,transportation,42700,Transportation expense
+2025-11-08,other,70776,Other expense
+2025-11-08,utilities,63286,Electric bill
+2025-11-09,other,17345,Other expense
+2025-11-09,food & beverages,50598,Beverage
+2025-11-09,transportation,22600,Transportation expense
+2025-11-09,health,52778,Health expense
+2025-11-09,utilities,35985,Electric bill
+2025-11-09,other,42631,Other expense
+2025-11-10,transportation,12200,Transportation expense
+2025-11-10,food & beverages,21157,Food
+2025-11-10,transportation,23700,Transportation expense
+2025-11-10,transportation,30500,Transportation expense
+2025-11-10,other,30789,Other expense
+2025-11-10,transportation,12800,Transportation expense
+2025-11-10,utilities,53202,Electric bill
+2025-11-10,transportation,29600,Transportation expense
+2025-11-10,food & beverages,71600,Food
+2025-11-10,utilities,50928,Electric bill
+2025-11-10,transportation,31300,Transportation expense
+2025-11-11,entertainment,244755,Shopping
+2025-11-11,transportation,25900,Transportation expense
+2025-11-11,food & beverages,66345,Beverage
+2025-11-11,utilities,68679,Water bill
+2025-11-11,utilities,40669,Water bill
+2025-11-12,entertainment,424348,Cinema
+2025-11-12,other,91937,Other expense
+2025-11-12,food & beverages,25087,Beverage
+2025-11-12,utilities,36492,Electric bill
+2025-11-12,transportation,30800,Transportation expense
+2025-11-12,other,94495,Other expense
+2025-11-12,utilities,45292,Tax
+2025-11-12,food & beverages,62474,Beverage
+2025-11-12,food & beverages,46804,Food
+2025-11-12,utilities,91137,Internet
+2025-11-12,utilities,94278,Water bill
+2025-11-12,food & beverages,62998,Beverage
+2025-11-13,entertainment,413880,Karaoke
+2025-11-13,food & beverages,34377,Beverage
+2025-11-13,health,90989,Health expense
+2025-11-13,transportation,10000,Transportation expense
+2025-11-13,utilities,44318,Tax
+2025-11-13,health,101229,Health expense
+2025-11-13,health,101290,Health expense
+2025-11-13,food & beverages,58141,Food
+2025-11-13,other,60789,Other expense
+2025-11-13,food & beverages,65183,Food
+2025-11-13,transportation,28600,Transportation expense
+2025-11-13,food & beverages,22239,Food
+2025-11-14,food & beverages,23504,Food
+2025-11-14,food & beverages,22015,Beverage
+2025-11-14,transportation,16500,Transportation expense
+2025-11-14,food & beverages,40467,Food
+2025-11-14,utilities,26433,Internet
+2025-11-14,transportation,49700,Transportation expense
+2025-11-15,entertainment,209438,Arcade
+2025-11-15,other,20480,Other expense
+2025-11-15,transportation,14000,Transportation expense
+2025-11-15,food & beverages,73355,Food
+2025-11-15,transportation,34200,Transportation expense
+2025-11-15,utilities,54840,Electric bill
+2025-11-16,entertainment,136903,Cinema
+2025-11-16,food & beverages,49044,Beverage
+2025-11-16,food & beverages,49842,Food
+2025-11-16,transportation,22700,Transportation expense
+2025-11-16,transportation,26300,Transportation expense
+2025-11-16,transportation,21700,Transportation expense
+2025-11-16,transportation,46600,Transportation expense
+2025-11-16,transportation,16900,Transportation expense
+2025-11-16,utilities,80125,Internet
+2025-11-16,utilities,33644,Tax
+2025-11-16,food & beverages,41316,Beverage
+2025-11-16,transportation,20400,Transportation expense
+2025-11-16,transportation,49300,Transportation expense
+2025-11-17,health,92100,Health expense
+2025-11-17,other,52553,Other expense
+2025-11-17,health,74046,Health expense
+2025-11-17,utilities,62395,Tax
+2025-11-17,transportation,46900,Transportation expense
+2025-11-17,transportation,34600,Transportation expense
+2025-11-17,utilities,67187,Internet
+2025-11-17,other,68654,Other expense
+2025-11-17,other,10025,Other expense
+2025-11-17,utilities,98087,Internet
+2025-11-17,food & beverages,73348,Beverage
+2025-11-17,food & beverages,29541,Beverage
+2025-11-18,food & beverages,60201,Food
+2025-11-18,health,92569,Health expense
+2025-11-18,transportation,47400,Transportation expense
+2025-11-18,other,30278,Other expense
+2025-11-18,food & beverages,25230,Food
+2025-11-18,food & beverages,53152,Beverage
+2025-11-18,food & beverages,34680,Beverage
+2025-11-18,food & beverages,75154,Beverage
+2025-11-19,utilities,42662,Tax
+2025-11-19,transportation,47800,Transportation expense
+2025-11-19,health,32499,Health expense
+2025-11-19,transportation,29700,Transportation expense
+2025-11-19,food & beverages,40005,Food
+2025-11-19,food & beverages,65521,Beverage
+2025-11-19,food & beverages,43462,Food
+2025-11-19,transportation,17900,Transportation expense
+2025-11-20,health,21498,Health expense
+2025-11-20,transportation,35100,Transportation expense
+2025-11-20,food & beverages,35926,Food
+2025-11-20,transportation,19800,Transportation expense
+2025-11-20,food & beverages,25039,Food
+2025-11-20,food & beverages,40747,Food
+2025-11-20,other,88005,Other expense
+2025-11-20,transportation,15900,Transportation expense
+2025-11-21,utilities,37326,Water bill
+2025-11-26,entertainment,325478,Cinema
+2025-12-01,health,300000,Gym membership
+2025-12-01,utilities,34728,Electric bill
+2025-12-01,utilities,39356,Water bill
+2025-12-01,health,57707,Health expense
+2025-12-01,food & beverages,22292,Food
+2025-12-01,food & beverages,36749,Food
+2025-12-01,food & beverages,28356,Food
+2025-12-01,transportation,27000,Transportation expense
+2025-12-01,transportation,19300,Transportation expense
+2025-12-01,utilities,69362,Electric bill
+2025-12-01,transportation,44500,Transportation expense
+2025-12-01,food & beverages,33613,Beverage
+2025-12-01,food & beverages,32778,Food
+2025-12-01,food & beverages,15546,Food
+2025-12-01,food & beverages,58449,Food
+2025-12-02,food & beverages,72894,Beverage
+2025-12-02,utilities,69899,Water bill
+2025-12-02,transportation,16500,Transportation expense
+2025-12-02,health,83525,Health expense
+2025-12-02,health,89672,Health expense
+2025-12-02,food & beverages,78359,Beverage
+2025-12-02,transportation,11400,Transportation expense
+2025-12-02,food & beverages,34983,Food
+2025-12-02,food & beverages,25289,Beverage
+2025-12-02,food & beverages,38290,Food
+2025-12-02,transportation,25500,Transportation expense
+2025-12-02,other,75700,Other expense
+2025-12-02,food & beverages,31887,Beverage
+2025-12-02,health,23862,Health expense
+2025-12-02,other,46725,Other expense
+2025-12-03,entertainment,305964,Karaoke
+2025-12-03,food & beverages,77954,Beverage
+2025-12-03,utilities,74700,Water bill
+2025-12-03,food & beverages,78605,Beverage
+2025-12-03,food & beverages,44436,Food
+2025-12-03,transportation,23600,Transportation expense
+2025-12-03,utilities,38102,Water bill
+2025-12-03,food & beverages,49328,Food
+2025-12-04,health,39025,Health expense
+2025-12-04,utilities,61614,Water bill
+2025-12-04,food & beverages,62149,Food
+2025-12-04,food & beverages,72647,Beverage
+2025-12-04,food & beverages,35885,Beverage
+2025-12-04,health,74269,Health expense
+2025-12-04,other,49760,Other expense
+2025-12-05,health,103472,Health expense
+2025-12-05,other,45887,Other expense
+2025-12-05,food & beverages,23620,Beverage
+2025-12-05,food & beverages,55106,Food
+2025-12-05,transportation,49700,Transportation expense
+2025-12-05,transportation,25100,Transportation expense
+2025-12-05,transportation,25100,Transportation expense
+2025-12-05,utilities,30417,Internet
+2025-12-05,utilities,37575,Tax
+2025-12-05,transportation,49600,Transportation expense
+2025-12-05,transportation,34500,Transportation expense
+2025-12-05,food & beverages,46054,Beverage
+2025-12-06,entertainment,218632,Shopping
+2025-12-06,transportation,11000,Transportation expense
+2025-12-06,other,64138,Other expense
+2025-12-06,food & beverages,28292,Food
+2025-12-06,utilities,43209,Electric bill
+2025-12-06,other,67577,Other expense
+2025-12-06,health,84217,Health expense
+2025-12-07,health,76040,Health expense
+2025-12-07,transportation,12700,Transportation expense
+2025-12-07,transportation,34900,Transportation expense
+2025-12-07,utilities,94964,Tax
+2025-12-07,transportation,44400,Transportation expense
+2025-12-07,utilities,88242,Electric bill
+2025-12-07,food & beverages,72525,Food
+2025-12-07,food & beverages,48993,Food
+2025-12-07,transportation,12600,Transportation expense
+2025-12-07,transportation,43800,Transportation expense
+2025-12-08,food & beverages,72959,Food
+2025-12-08,food & beverages,45234,Food
+2025-12-08,food & beverages,75229,Beverage
+2025-12-08,food & beverages,24321,Food
+2025-12-08,transportation,39600,Transportation expense
+2025-12-08,food & beverages,26781,Food
+2025-12-08,utilities,71520,Water bill
+2025-12-08,transportation,39500,Transportation expense
+2025-12-08,food & beverages,73760,Food
+2025-12-08,utilities,79596,Water bill
+2025-12-08,food & beverages,57505,Beverage
+2025-12-08,health,41495,Health expense
+2025-12-08,utilities,31952,Electric bill
+2025-12-08,food & beverages,38785,Food
+2025-12-08,food & beverages,62636,Food
+2025-12-09,food & beverages,17877,Food
+2025-12-09,utilities,94120,Internet
+2025-12-09,health,39672,Health expense
+2025-12-09,food & beverages,65407,Beverage
+2025-12-09,utilities,60378,Tax
+2025-12-09,food & beverages,44245,Food
+2025-12-09,food & beverages,73886,Beverage
+2025-12-09,food & beverages,55800,Beverage
+2025-12-09,utilities,80115,Electric bill
+2025-12-09,transportation,42700,Transportation expense
+2025-12-09,transportation,10400,Transportation expense
+2025-12-09,transportation,42300,Transportation expense
+2025-12-09,food & beverages,46176,Food
+2025-12-10,food & beverages,31037,Food
+2025-12-10,health,56452,Health expense
+2025-12-10,transportation,46500,Transportation expense
+2025-12-10,health,47215,Health expense
+2025-12-10,food & beverages,57813,Beverage
+2025-12-10,food & beverages,17125,Beverage
+2025-12-10,utilities,63399,Internet
+2025-12-10,other,16426,Other expense
+2025-12-10,food & beverages,25573,Food
+2025-12-10,utilities,79682,Water bill
+2025-12-10,utilities,24697,Internet
+2025-12-10,food & beverages,39154,Beverage
+2025-12-11,utilities,58382,Electric bill
+2025-12-11,transportation,18000,Transportation expense
+2025-12-11,utilities,63150,Internet
+2025-12-11,transportation,44400,Transportation expense
+2025-12-11,food & beverages,18813,Beverage
+2025-12-11,food & beverages,56220,Food
+2025-12-11,transportation,15700,Transportation expense
+2025-12-11,transportation,49600,Transportation expense
+2025-12-11,other,47642,Other expense
+2025-12-11,transportation,30700,Transportation expense
+2025-12-11,food & beverages,55844,Food
+2025-12-12,transportation,42500,Transportation expense
+2025-12-12,transportation,42600,Transportation expense
+2025-12-12,transportation,21800,Transportation expense
+2025-12-12,health,50503,Health expense
+2025-12-12,utilities,20207,Water bill
+2025-12-12,food & beverages,67214,Food
+2025-12-12,food & beverages,67400,Food
+2025-12-12,transportation,37200,Transportation expense
+2025-12-12,transportation,31900,Transportation expense
+2025-12-12,food & beverages,28915,Food
+2025-12-13,utilities,28891,Internet
+2025-12-13,food & beverages,36228,Food
+2025-12-13,utilities,63684,Electric bill
+2025-12-13,food & beverages,55369,Food
+2025-12-13,other,33020,Other expense
+2025-12-17,transportation,13700,Transportation expense
+2025-12-20,entertainment,116343,Cinema
