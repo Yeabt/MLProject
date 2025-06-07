@@ -1,0 +1,1846 @@
+date,category,amount,description
+2024-01-01,health,300000,Gym membership
+2024-01-01,entertainment,221981,Shopping
+2024-01-01,transportation,45700,Transportation expense
+2024-01-01,transportation,39400,Transportation expense
+2024-01-01,transportation,10400,Transportation expense
+2024-01-02,food & beverages,77731,Beverage
+2024-01-02,utilities,32156,Electric bill
+2024-01-02,transportation,33500,Transportation expense
+2024-01-02,health,99131,Health expense
+2024-01-02,food & beverages,45108,Beverage
+2024-01-02,transportation,34800,Transportation expense
+2024-01-02,food & beverages,56198,Beverage
+2024-01-03,food & beverages,19558,Beverage
+2024-01-03,food & beverages,33965,Beverage
+2024-01-03,other,40512,Other expense
+2024-01-03,health,69823,Health expense
+2024-01-03,food & beverages,38909,Food
+2024-01-03,food & beverages,58920,Beverage
+2024-01-03,food & beverages,57469,Food
+2024-01-03,food & beverages,50005,Food
+2024-01-03,utilities,80589,Water bill
+2024-01-03,transportation,46500,Transportation expense
+2024-01-03,food & beverages,65352,Beverage
+2024-01-03,utilities,24207,Water bill
+2024-01-03,utilities,55093,Tax
+2024-01-03,food & beverages,52170,Food
+2024-01-04,entertainment,361740,Arcade
+2024-01-04,health,104259,Health expense
+2024-01-04,transportation,27400,Transportation expense
+2024-01-04,food & beverages,50322,Food
+2024-01-04,food & beverages,73839,Food
+2024-01-04,transportation,33700,Transportation expense
+2024-01-04,food & beverages,48392,Food
+2024-01-04,transportation,13100,Transportation expense
+2024-01-04,health,40033,Health expense
+2024-01-04,transportation,37700,Transportation expense
+2024-01-05,entertainment,300078,Arcade
+2024-01-05,transportation,46300,Transportation expense
+2024-01-05,health,21504,Health expense
+2024-01-05,utilities,90381,Electric bill
+2024-01-05,utilities,34621,Internet
+2024-01-05,food & beverages,15212,Beverage
+2024-01-05,other,44522,Other expense
+2024-01-05,other,33416,Other expense
+2024-01-05,transportation,17000,Transportation expense
+2024-01-05,health,59117,Health expense
+2024-01-05,health,86540,Health expense
+2024-01-05,transportation,20000,Transportation expense
+2024-01-05,transportation,20600,Transportation expense
+2024-01-05,transportation,44800,Transportation expense
+2024-01-06,transportation,17300,Transportation expense
+2024-01-06,other,50306,Other expense
+2024-01-06,food & beverages,52182,Beverage
+2024-01-06,other,21226,Other expense
+2024-01-06,utilities,89822,Electric bill
+2024-01-07,entertainment,349184,Karaoke
+2024-01-07,food & beverages,42730,Food
+2024-01-07,other,80686,Other expense
+2024-01-07,utilities,60857,Water bill
+2024-01-07,transportation,34500,Transportation expense
+2024-01-07,transportation,43900,Transportation expense
+2024-01-07,transportation,26200,Transportation expense
+2024-01-08,entertainment,111028,Karaoke
+2024-01-08,transportation,10500,Transportation expense
+2024-01-08,food & beverages,30003,Food
+2024-01-08,food & beverages,36654,Beverage
+2024-01-08,food & beverages,58842,Beverage
+2024-01-08,transportation,45300,Transportation expense
+2024-01-08,food & beverages,52423,Food
+2024-01-08,transportation,25900,Transportation expense
+2024-01-09,food & beverages,43249,Beverage
+2024-01-09,food & beverages,71612,Food
+2024-01-09,utilities,27944,Electric bill
+2024-01-09,transportation,32200,Transportation expense
+2024-01-09,utilities,52591,Electric bill
+2024-01-09,food & beverages,24186,Food
+2024-01-09,transportation,28300,Transportation expense
+2024-01-09,transportation,14900,Transportation expense
+2024-01-09,transportation,46100,Transportation expense
+2024-01-09,food & beverages,50427,Food
+2024-01-09,health,32224,Health expense
+2024-01-09,other,40982,Other expense
+2024-01-10,transportation,36300,Transportation expense
+2024-01-10,health,41579,Health expense
+2024-01-10,transportation,35600,Transportation expense
+2024-01-10,food & beverages,44819,Food
+2024-01-10,food & beverages,62874,Food
+2024-01-10,other,82845,Other expense
+2024-01-10,utilities,40289,Tax
+2024-01-11,entertainment,130662,Shopping
+2024-01-11,utilities,26572,Electric bill
+2024-01-11,transportation,43000,Transportation expense
+2024-01-11,other,79615,Other expense
+2024-01-11,food & beverages,20250,Food
+2024-01-11,health,28981,Health expense
+2024-01-11,transportation,25400,Transportation expense
+2024-01-11,transportation,47300,Transportation expense
+2024-01-12,food & beverages,58081,Beverage
+2024-01-12,transportation,44300,Transportation expense
+2024-01-12,food & beverages,58891,Beverage
+2024-01-12,utilities,54814,Water bill
+2024-01-12,transportation,29700,Transportation expense
+2024-01-12,transportation,14800,Transportation expense
+2024-01-12,food & beverages,51896,Food
+2024-01-12,other,19602,Other expense
+2024-01-13,entertainment,239041,Karaoke
+2024-01-13,other,19016,Other expense
+2024-01-13,health,68434,Health expense
+2024-01-13,food & beverages,50600,Food
+2024-01-13,utilities,92692,Electric bill
+2024-01-13,food & beverages,76533,Food
+2024-01-13,health,54664,Health expense
+2024-01-13,food & beverages,51256,Beverage
+2024-01-13,food & beverages,28803,Beverage
+2024-01-13,utilities,54600,Water bill
+2024-01-13,transportation,26500,Transportation expense
+2024-01-13,health,26658,Health expense
+2024-01-13,food & beverages,33132,Food
+2024-01-14,entertainment,168587,Cinema
+2024-01-14,food & beverages,61246,Food
+2024-01-14,transportation,10600,Transportation expense
+2024-01-14,food & beverages,60286,Food
+2024-01-14,health,91511,Health expense
+2024-01-15,transportation,19700,Transportation expense
+2024-01-15,transportation,12700,Transportation expense
+2024-01-15,food & beverages,67174,Food
+2024-01-15,other,15229,Other expense
+2024-01-15,health,47535,Health expense
+2024-01-16,entertainment,153893,Cinema
+2024-01-16,utilities,40257,Tax
+2024-01-16,other,41029,Other expense
+2024-01-16,health,43206,Health expense
+2024-01-16,health,23248,Health expense
+2024-01-16,food & beverages,66274,Food
+2024-01-17,entertainment,467671,Shopping
+2024-02-01,health,300000,Gym membership
+2024-02-01,transportation,10000,Transportation expense
+2024-02-01,food & beverages,66495,Beverage
+2024-02-01,transportation,31100,Transportation expense
+2024-02-01,transportation,39000,Transportation expense
+2024-02-01,utilities,42241,Tax
+2024-02-01,utilities,87561,Internet
+2024-02-01,utilities,32240,Internet
+2024-02-01,health,118453,Health expense
+2024-02-01,food & beverages,67858,Beverage
+2024-02-01,food & beverages,31046,Beverage
+2024-02-01,other,90120,Other expense
+2024-02-01,health,29545,Health expense
+2024-02-01,transportation,47700,Transportation expense
+2024-02-02,transportation,36200,Transportation expense
+2024-02-02,food & beverages,15363,Food
+2024-02-02,health,33970,Health expense
+2024-02-02,utilities,43053,Water bill
+2024-02-02,utilities,26582,Tax
+2024-02-02,transportation,18000,Transportation expense
+2024-02-02,transportation,40400,Transportation expense
+2024-02-02,utilities,78008,Internet
+2024-02-03,health,75933,Health expense
+2024-02-03,health,91810,Health expense
+2024-02-03,transportation,20400,Transportation expense
+2024-02-03,utilities,78991,Tax
+2024-02-03,food & beverages,56789,Beverage
+2024-02-03,food & beverages,46758,Food
+2024-02-03,transportation,28000,Transportation expense
+2024-02-03,transportation,28700,Transportation expense
+2024-02-03,food & beverages,73525,Beverage
+2024-02-03,transportation,19100,Transportation expense
+2024-02-03,food & beverages,25014,Beverage
+2024-02-03,utilities,74377,Electric bill
+2024-02-03,transportation,45600,Transportation expense
+2024-02-03,transportation,14100,Transportation expense
+2024-02-04,transportation,48300,Transportation expense
+2024-02-04,other,12560,Other expense
+2024-02-04,health,95456,Health expense
+2024-02-04,transportation,10400,Transportation expense
+2024-02-04,other,49139,Other expense
+2024-02-04,utilities,90545,Tax
+2024-02-04,utilities,83993,Water bill
+2024-02-04,food & beverages,16902,Food
+2024-02-05,utilities,41632,Tax
+2024-02-05,health,36728,Health expense
+2024-02-05,other,80008,Other expense
+2024-02-05,food & beverages,51987,Beverage
+2024-02-05,utilities,76179,Electric bill
+2024-02-05,food & beverages,18295,Food
+2024-02-05,food & beverages,44799,Beverage
+2024-02-05,food & beverages,39846,Food
+2024-02-05,food & beverages,42627,Food
+2024-02-05,food & beverages,16270,Beverage
+2024-02-05,utilities,65870,Electric bill
+2024-02-06,utilities,24067,Electric bill
+2024-02-06,other,36130,Other expense
+2024-02-06,health,101439,Health expense
+2024-02-06,food & beverages,58873,Beverage
+2024-02-06,food & beverages,45476,Food
+2024-02-06,utilities,41992,Internet
+2024-02-06,transportation,17500,Transportation expense
+2024-02-06,utilities,60768,Water bill
+2024-02-07,other,85470,Other expense
+2024-02-07,utilities,71990,Tax
+2024-02-07,other,35995,Other expense
+2024-02-07,food & beverages,56106,Food
+2024-02-07,food & beverages,34764,Food
+2024-02-07,health,98697,Health expense
+2024-02-08,transportation,12700,Transportation expense
+2024-02-08,food & beverages,39285,Food
+2024-02-08,food & beverages,15829,Food
+2024-02-08,health,84251,Health expense
+2024-02-08,food & beverages,56653,Food
+2024-02-08,health,80258,Health expense
+2024-02-09,utilities,90539,Internet
+2024-02-09,utilities,77091,Tax
+2024-02-09,health,97656,Health expense
+2024-02-09,food & beverages,69442,Food
+2024-02-09,other,46559,Other expense
+2024-02-09,health,51963,Health expense
+2024-02-09,utilities,64092,Tax
+2024-02-10,food & beverages,38253,Food
+2024-02-10,utilities,56655,Internet
+2024-02-10,health,111905,Health expense
+2024-02-10,health,92848,Health expense
+2024-02-10,food & beverages,20610,Food
+2024-02-11,transportation,25700,Transportation expense
+2024-02-11,utilities,78743,Tax
+2024-02-11,utilities,58566,Electric bill
+2024-02-11,food & beverages,35067,Food
+2024-02-11,utilities,82031,Internet
+2024-02-11,transportation,32500,Transportation expense
+2024-02-11,transportation,46100,Transportation expense
+2024-02-11,food & beverages,32754,Food
+2024-02-12,entertainment,163258,Karaoke
+2024-02-12,food & beverages,77316,Food
+2024-02-12,utilities,45105,Water bill
+2024-02-12,food & beverages,62486,Food
+2024-02-12,transportation,44400,Transportation expense
+2024-02-12,transportation,16600,Transportation expense
+2024-02-12,health,58829,Health expense
+2024-02-12,food & beverages,15927,Beverage
+2024-02-12,utilities,55954,Water bill
+2024-02-13,transportation,18300,Transportation expense
+2024-02-13,utilities,33446,Tax
+2024-02-13,health,95243,Health expense
+2024-02-13,food & beverages,37328,Food
+2024-02-13,food & beverages,76673,Beverage
+2024-02-14,entertainment,134258,Arcade
+2024-02-14,transportation,47800,Transportation expense
+2024-02-14,transportation,13500,Transportation expense
+2024-02-14,food & beverages,77201,Food
+2024-02-14,food & beverages,22762,Food
+2024-02-14,transportation,37300,Transportation expense
+2024-02-14,transportation,24800,Transportation expense
+2024-02-14,utilities,79049,Tax
+2024-02-14,health,58974,Health expense
+2024-02-14,health,76207,Health expense
+2024-02-14,food & beverages,54952,Food
+2024-02-14,other,23006,Other expense
+2024-02-15,food & beverages,30719,Beverage
+2024-02-15,food & beverages,15175,Beverage
+2024-02-15,transportation,48900,Transportation expense
+2024-02-15,transportation,12100,Transportation expense
+2024-02-15,food & beverages,61070,Food
+2024-02-15,health,29329,Health expense
+2024-02-15,utilities,97304,Internet
+2024-02-15,utilities,75723,Water bill
+2024-02-16,utilities,38643,Internet
+2024-02-16,food & beverages,35159,Beverage
+2024-02-16,transportation,47300,Transportation expense
+2024-02-16,other,67560,Other expense
+2024-02-17,transportation,42400,Transportation expense
+2024-02-19,entertainment,453526,Shopping
+2024-03-01,health,300000,Gym membership
+2024-03-01,utilities,23783,Electric bill
+2024-03-01,other,89806,Other expense
+2024-03-01,utilities,60730,Water bill
+2024-03-01,transportation,46200,Transportation expense
+2024-03-01,transportation,24700,Transportation expense
+2024-03-01,other,24871,Other expense
+2024-03-01,transportation,17700,Transportation expense
+2024-03-01,utilities,85323,Water bill
+2024-03-02,food & beverages,79241,Food
+2024-03-02,transportation,39900,Transportation expense
+2024-03-02,transportation,35100,Transportation expense
+2024-03-02,food & beverages,63909,Food
+2024-03-02,health,29150,Health expense
+2024-03-02,food & beverages,42193,Food
+2024-03-02,food & beverages,32509,Food
+2024-03-02,health,57072,Health expense
+2024-03-02,utilities,39476,Tax
+2024-03-03,food & beverages,50614,Food
+2024-03-03,transportation,31100,Transportation expense
+2024-03-03,health,111422,Health expense
+2024-03-03,food & beverages,71099,Beverage
+2024-03-03,utilities,61704,Electric bill
+2024-03-03,utilities,70604,Tax
+2024-03-03,other,95461,Other expense
+2024-03-03,other,74923,Other expense
+2024-03-03,other,26547,Other expense
+2024-03-03,transportation,48700,Transportation expense
+2024-03-03,food & beverages,70380,Beverage
+2024-03-03,transportation,44500,Transportation expense
+2024-03-04,entertainment,175578,Arcade
+2024-03-04,health,40232,Health expense
+2024-03-04,food & beverages,32368,Food
+2024-03-04,food & beverages,57587,Food
+2024-03-04,food & beverages,59194,Beverage
+2024-03-04,health,69808,Health expense
+2024-03-04,other,92155,Other expense
+2024-03-04,utilities,90912,Tax
+2024-03-04,food & beverages,56363,Beverage
+2024-03-04,utilities,49817,Internet
+2024-03-04,utilities,32903,Tax
+2024-03-04,utilities,78153,Electric bill
+2024-03-05,health,26028,Health expense
+2024-03-05,food & beverages,38492,Beverage
+2024-03-05,transportation,19500,Transportation expense
+2024-03-05,food & beverages,59682,Food
+2024-03-05,utilities,42946,Water bill
+2024-03-05,food & beverages,55613,Food
+2024-03-05,utilities,96435,Tax
+2024-03-06,entertainment,434445,Cinema
+2024-03-06,transportation,10600,Transportation expense
+2024-03-06,health,80981,Health expense
+2024-03-06,health,108815,Health expense
+2024-03-06,transportation,14800,Transportation expense
+2024-03-06,transportation,32600,Transportation expense
+2024-03-06,other,49210,Other expense
+2024-03-07,utilities,59599,Tax
+2024-03-07,food & beverages,46667,Beverage
+2024-03-07,food & beverages,38524,Beverage
+2024-03-07,transportation,29300,Transportation expense
+2024-03-07,food & beverages,40939,Food
+2024-03-07,food & beverages,59944,Food
+2024-03-07,utilities,99482,Electric bill
+2024-03-07,utilities,50162,Internet
+2024-03-07,transportation,33100,Transportation expense
+2024-03-07,food & beverages,31425,Beverage
+2024-03-07,utilities,32735,Water bill
+2024-03-07,health,104717,Health expense
+2024-03-07,food & beverages,17186,Food
+2024-03-07,transportation,18600,Transportation expense
+2024-03-07,food & beverages,63986,Beverage
+2024-03-08,entertainment,169289,Cinema
+2024-03-08,transportation,27900,Transportation expense
+2024-03-08,health,53681,Health expense
+2024-03-08,other,73156,Other expense
+2024-03-08,other,48684,Other expense
+2024-03-08,utilities,35095,Internet
+2024-03-08,transportation,14900,Transportation expense
+2024-03-08,food & beverages,71370,Food
+2024-03-08,utilities,93048,Tax
+2024-03-08,transportation,35900,Transportation expense
+2024-03-08,food & beverages,44804,Food
+2024-03-09,utilities,68689,Tax
+2024-03-09,food & beverages,16640,Beverage
+2024-03-09,transportation,46800,Transportation expense
+2024-03-09,food & beverages,57444,Food
+2024-03-09,food & beverages,74597,Food
+2024-03-09,utilities,35292,Tax
+2024-03-09,food & beverages,34946,Food
+2024-03-09,other,25220,Other expense
+2024-03-09,food & beverages,23890,Food
+2024-03-09,transportation,34300,Transportation expense
+2024-03-10,utilities,96983,Tax
+2024-03-10,utilities,74379,Water bill
+2024-03-10,utilities,73492,Tax
+2024-03-10,other,46666,Other expense
+2024-03-10,food & beverages,44057,Beverage
+2024-03-10,transportation,25500,Transportation expense
+2024-03-10,health,33022,Health expense
+2024-03-10,other,58147,Other expense
+2024-03-10,transportation,33500,Transportation expense
+2024-03-10,food & beverages,78452,Beverage
+2024-03-10,food & beverages,44800,Food
+2024-03-10,food & beverages,56909,Beverage
+2024-03-10,transportation,11400,Transportation expense
+2024-03-10,food & beverages,79803,Beverage
+2024-03-10,food & beverages,19496,Food
+2024-03-11,entertainment,213220,Karaoke
+2024-03-11,food & beverages,74017,Beverage
+2024-03-11,transportation,28200,Transportation expense
+2024-03-11,health,38964,Health expense
+2024-03-11,other,80807,Other expense
+2024-03-11,food & beverages,58323,Beverage
+2024-03-11,health,37275,Health expense
+2024-03-11,food & beverages,30593,Food
+2024-03-11,transportation,11000,Transportation expense
+2024-03-11,food & beverages,63609,Beverage
+2024-03-11,transportation,17400,Transportation expense
+2024-03-11,utilities,78756,Tax
+2024-03-11,utilities,79245,Electric bill
+2024-03-12,entertainment,422493,Shopping
+2024-03-12,utilities,80036,Internet
+2024-03-12,utilities,27972,Electric bill
+2024-03-12,other,62640,Other expense
+2024-03-12,transportation,17100,Transportation expense
+2024-03-12,transportation,39100,Transportation expense
+2024-03-12,food & beverages,54865,Beverage
+2024-03-12,food & beverages,55915,Beverage
+2024-03-12,transportation,45900,Transportation expense
+2024-03-12,utilities,98301,Tax
+2024-03-12,transportation,39700,Transportation expense
+2024-03-12,transportation,38200,Transportation expense
+2024-03-12,food & beverages,70888,Food
+2024-03-13,utilities,76370,Water bill
+2024-03-13,transportation,25000,Transportation expense
+2024-03-13,transportation,39700,Transportation expense
+2024-03-13,transportation,16200,Transportation expense
+2024-03-13,food & beverages,31704,Beverage
+2024-03-13,transportation,20000,Transportation expense
+2024-03-13,utilities,28799,Tax
+2024-03-13,food & beverages,43303,Beverage
+2024-03-13,food & beverages,68200,Food
+2024-03-13,food & beverages,77693,Beverage
+2024-03-13,transportation,31600,Transportation expense
+2024-03-13,utilities,66346,Tax
+2024-03-13,health,118341,Health expense
+2024-03-13,transportation,13400,Transportation expense
+2024-03-13,other,88696,Other expense
+2024-03-14,transportation,23900,Transportation expense
+2024-03-14,food & beverages,70527,Food
+2024-03-14,food & beverages,39088,Food
+2024-03-14,food & beverages,29821,Beverage
+2024-03-14,utilities,99822,Electric bill
+2024-03-14,other,45054,Other expense
+2024-03-15,food & beverages,24388,Beverage
+2024-03-16,entertainment,431964,Shopping
+2024-04-01,health,300000,Gym membership
+2024-04-01,other,21551,Other expense
+2024-04-01,transportation,16900,Transportation expense
+2024-04-01,food & beverages,49338,Food
+2024-04-01,food & beverages,63877,Food
+2024-04-01,food & beverages,26018,Beverage
+2024-04-01,food & beverages,49773,Food
+2024-04-01,transportation,32900,Transportation expense
+2024-04-01,food & beverages,57299,Food
+2024-04-01,utilities,33474,Water bill
+2024-04-01,food & beverages,54478,Beverage
+2024-04-01,food & beverages,19938,Food
+2024-04-02,transportation,40400,Transportation expense
+2024-04-02,utilities,93989,Tax
+2024-04-02,utilities,61436,Internet
+2024-04-02,food & beverages,43980,Beverage
+2024-04-02,transportation,28000,Transportation expense
+2024-04-02,transportation,33100,Transportation expense
+2024-04-02,transportation,30300,Transportation expense
+2024-04-03,food & beverages,20028,Food
+2024-04-03,utilities,97867,Electric bill
+2024-04-03,transportation,40300,Transportation expense
+2024-04-03,transportation,12700,Transportation expense
+2024-04-03,transportation,47500,Transportation expense
+2024-04-03,utilities,99299,Internet
+2024-04-03,transportation,19900,Transportation expense
+2024-04-03,other,69050,Other expense
+2024-04-03,food & beverages,37507,Food
+2024-04-03,other,21053,Other expense
+2024-04-03,transportation,21300,Transportation expense
+2024-04-03,food & beverages,79945,Food
+2024-04-04,transportation,33800,Transportation expense
+2024-04-04,transportation,28500,Transportation expense
+2024-04-04,transportation,32200,Transportation expense
+2024-04-04,utilities,63863,Electric bill
+2024-04-04,food & beverages,59458,Beverage
+2024-04-04,transportation,26500,Transportation expense
+2024-04-04,utilities,63694,Water bill
+2024-04-04,food & beverages,75079,Food
+2024-04-04,food & beverages,60775,Food
+2024-04-04,utilities,97993,Water bill
+2024-04-04,utilities,60577,Electric bill
+2024-04-04,transportation,31500,Transportation expense
+2024-04-05,health,116832,Health expense
+2024-04-05,other,78995,Other expense
+2024-04-05,food & beverages,48324,Food
+2024-04-05,food & beverages,26813,Beverage
+2024-04-05,other,54791,Other expense
+2024-04-05,other,73736,Other expense
+2024-04-05,food & beverages,25154,Food
+2024-04-06,entertainment,153026,Shopping
+2024-04-06,utilities,98282,Water bill
+2024-04-06,transportation,20600,Transportation expense
+2024-04-06,food & beverages,55942,Food
+2024-04-06,utilities,77366,Water bill
+2024-04-06,food & beverages,62158,Beverage
+2024-04-07,transportation,39400,Transportation expense
+2024-04-07,food & beverages,78281,Beverage
+2024-04-07,utilities,45430,Tax
+2024-04-07,transportation,47400,Transportation expense
+2024-04-07,other,70513,Other expense
+2024-04-07,utilities,85916,Tax
+2024-04-07,transportation,20600,Transportation expense
+2024-04-07,utilities,52768,Water bill
+2024-04-08,health,92684,Health expense
+2024-04-08,other,77621,Other expense
+2024-04-08,health,57363,Health expense
+2024-04-08,food & beverages,44446,Beverage
+2024-04-08,health,39313,Health expense
+2024-04-09,entertainment,216411,Arcade
+2024-04-09,health,23495,Health expense
+2024-04-09,transportation,36000,Transportation expense
+2024-04-09,transportation,25500,Transportation expense
+2024-04-09,transportation,15300,Transportation expense
+2024-04-09,transportation,11800,Transportation expense
+2024-04-09,food & beverages,61838,Beverage
+2024-04-09,utilities,38035,Water bill
+2024-04-09,food & beverages,45962,Food
+2024-04-09,utilities,81487,Water bill
+2024-04-09,transportation,10300,Transportation expense
+2024-04-10,entertainment,213065,Karaoke
+2024-04-10,transportation,49900,Transportation expense
+2024-04-10,transportation,17300,Transportation expense
+2024-04-10,utilities,59472,Water bill
+2024-04-10,food & beverages,56874,Beverage
+2024-04-10,utilities,28232,Tax
+2024-04-11,transportation,45100,Transportation expense
+2024-04-11,food & beverages,30855,Food
+2024-04-11,utilities,76261,Internet
+2024-04-11,food & beverages,52399,Beverage
+2024-04-11,transportation,15600,Transportation expense
+2024-04-11,transportation,33600,Transportation expense
+2024-04-12,transportation,43300,Transportation expense
+2024-04-12,transportation,35600,Transportation expense
+2024-04-12,health,25706,Health expense
+2024-04-12,transportation,34500,Transportation expense
+2024-04-12,food & beverages,66676,Beverage
+2024-04-12,food & beverages,58063,Beverage
+2024-04-13,entertainment,405084,Cinema
+2024-04-13,food & beverages,37187,Beverage
+2024-04-13,utilities,80899,Water bill
+2024-04-13,other,72722,Other expense
+2024-04-13,transportation,18800,Transportation expense
+2024-04-13,food & beverages,44994,Food
+2024-04-13,food & beverages,66846,Beverage
+2024-04-13,food & beverages,76169,Beverage
+2024-04-13,food & beverages,68438,Beverage
+2024-04-13,transportation,26600,Transportation expense
+2024-04-13,food & beverages,33750,Food
+2024-04-13,food & beverages,71740,Food
+2024-04-13,utilities,36315,Internet
+2024-04-13,utilities,72431,Tax
+2024-04-13,utilities,64438,Tax
+2024-04-14,transportation,44000,Transportation expense
+2024-04-14,food & beverages,42820,Beverage
+2024-04-14,food & beverages,68892,Food
+2024-04-14,food & beverages,21723,Beverage
+2024-04-14,food & beverages,35086,Food
+2024-04-14,transportation,37900,Transportation expense
+2024-04-14,food & beverages,44303,Food
+2024-04-15,other,90589,Other expense
+2024-04-15,other,45986,Other expense
+2024-04-15,utilities,29835,Electric bill
+2024-04-15,utilities,67619,Tax
+2024-04-15,transportation,20500,Transportation expense
+2024-04-16,entertainment,418543,Arcade
+2024-04-16,food & beverages,66020,Beverage
+2024-04-16,utilities,70181,Internet
+2024-04-16,other,14244,Other expense
+2024-04-16,transportation,39500,Transportation expense
+2024-04-17,utilities,89397,Water bill
+2024-04-17,transportation,30600,Transportation expense
+2024-04-17,utilities,34869,Water bill
+2024-04-17,food & beverages,48930,Beverage
+2024-04-17,transportation,46800,Transportation expense
+2024-04-17,food & beverages,61139,Food
+2024-04-17,transportation,28700,Transportation expense
+2024-04-17,utilities,46237,Tax
+2024-04-17,food & beverages,44625,Food
+2024-04-17,food & beverages,20753,Food
+2024-04-18,other,97535,Other expense
+2024-04-18,food & beverages,50531,Beverage
+2024-04-18,food & beverages,25322,Beverage
+2024-04-18,utilities,67381,Water bill
+2024-04-18,transportation,18000,Transportation expense
+2024-04-18,other,28202,Other expense
+2024-04-18,food & beverages,38651,Food
+2024-04-18,transportation,34200,Transportation expense
+2024-04-18,transportation,46200,Transportation expense
+2024-04-18,food & beverages,19308,Food
+2024-04-18,food & beverages,62111,Food
+2024-04-18,transportation,36900,Transportation expense
+2024-04-18,utilities,36426,Electric bill
+2024-04-18,other,94192,Other expense
+2024-04-18,food & beverages,48905,Food
+2024-04-19,entertainment,389041,Karaoke
+2024-05-01,health,300000,Gym membership
+2024-05-01,transportation,13900,Transportation expense
+2024-05-01,food & beverages,45437,Food
+2024-05-01,food & beverages,35485,Food
+2024-05-01,health,61853,Health expense
+2024-05-01,utilities,72260,Internet
+2024-05-01,food & beverages,51808,Beverage
+2024-05-01,food & beverages,23029,Beverage
+2024-05-01,food & beverages,21344,Beverage
+2024-05-01,food & beverages,71633,Food
+2024-05-01,transportation,26300,Transportation expense
+2024-05-01,other,30932,Other expense
+2024-05-01,utilities,44881,Internet
+2024-05-01,utilities,87466,Tax
+2024-05-01,transportation,30200,Transportation expense
+2024-05-02,entertainment,306172,Arcade
+2024-05-02,other,38199,Other expense
+2024-05-02,transportation,13200,Transportation expense
+2024-05-02,food & beverages,72824,Food
+2024-05-02,health,108148,Health expense
+2024-05-02,transportation,45200,Transportation expense
+2024-05-02,food & beverages,23777,Beverage
+2024-05-02,health,115355,Health expense
+2024-05-02,transportation,36400,Transportation expense
+2024-05-02,transportation,36300,Transportation expense
+2024-05-02,food & beverages,38758,Food
+2024-05-02,transportation,14800,Transportation expense
+2024-05-03,utilities,35572,Internet
+2024-05-03,food & beverages,39457,Beverage
+2024-05-03,utilities,93116,Internet
+2024-05-03,other,28909,Other expense
+2024-05-03,food & beverages,47773,Food
+2024-05-03,food & beverages,61765,Beverage
+2024-05-03,food & beverages,44949,Food
+2024-05-03,food & beverages,24160,Food
+2024-05-03,food & beverages,25649,Food
+2024-05-03,transportation,29600,Transportation expense
+2024-05-03,transportation,43200,Transportation expense
+2024-05-04,utilities,82245,Internet
+2024-05-04,utilities,63416,Internet
+2024-05-04,utilities,96507,Tax
+2024-05-04,food & beverages,72153,Food
+2024-05-04,utilities,98238,Electric bill
+2024-05-04,transportation,47900,Transportation expense
+2024-05-04,transportation,13400,Transportation expense
+2024-05-04,transportation,21200,Transportation expense
+2024-05-04,transportation,34900,Transportation expense
+2024-05-04,food & beverages,17069,Food
+2024-05-04,transportation,17200,Transportation expense
+2024-05-04,food & beverages,42445,Food
+2024-05-04,food & beverages,41894,Food
+2024-05-05,other,18163,Other expense
+2024-05-05,utilities,93516,Water bill
+2024-05-05,food & beverages,49437,Food
+2024-05-05,transportation,21300,Transportation expense
+2024-05-05,transportation,44900,Transportation expense
+2024-05-05,food & beverages,65593,Beverage
+2024-05-05,health,109226,Health expense
+2024-05-05,utilities,99963,Internet
+2024-05-05,transportation,26200,Transportation expense
+2024-05-05,food & beverages,76701,Beverage
+2024-05-05,other,49008,Other expense
+2024-05-05,utilities,84094,Water bill
+2024-05-05,food & beverages,76190,Beverage
+2024-05-06,entertainment,400667,Arcade
+2024-05-06,health,71712,Health expense
+2024-05-06,health,39198,Health expense
+2024-05-06,food & beverages,61801,Beverage
+2024-05-06,food & beverages,57989,Food
+2024-05-06,food & beverages,28242,Food
+2024-05-06,health,55537,Health expense
+2024-05-06,other,45601,Other expense
+2024-05-06,food & beverages,53458,Food
+2024-05-07,entertainment,451185,Karaoke
+2024-05-07,utilities,33133,Electric bill
+2024-05-07,transportation,41000,Transportation expense
+2024-05-07,food & beverages,15339,Food
+2024-05-07,other,30701,Other expense
+2024-05-07,transportation,41200,Transportation expense
+2024-05-07,transportation,23100,Transportation expense
+2024-05-07,utilities,62096,Internet
+2024-05-08,health,31725,Health expense
+2024-05-08,utilities,90143,Water bill
+2024-05-08,utilities,42946,Electric bill
+2024-05-08,transportation,21500,Transportation expense
+2024-05-08,other,14763,Other expense
+2024-05-08,other,62034,Other expense
+2024-05-08,utilities,57941,Water bill
+2024-05-08,health,21214,Health expense
+2024-05-08,food & beverages,75847,Food
+2024-05-09,entertainment,436232,Arcade
+2024-05-09,health,37589,Health expense
+2024-05-09,health,81344,Health expense
+2024-05-09,food & beverages,36671,Food
+2024-05-09,food & beverages,31860,Food
+2024-05-09,utilities,64185,Electric bill
+2024-05-09,utilities,43002,Water bill
+2024-05-09,transportation,36600,Transportation expense
+2024-05-09,health,87538,Health expense
+2024-05-09,food & beverages,21251,Food
+2024-05-10,transportation,26300,Transportation expense
+2024-05-10,food & beverages,44277,Beverage
+2024-05-10,utilities,59576,Internet
+2024-05-10,transportation,47500,Transportation expense
+2024-05-10,food & beverages,60401,Food
+2024-05-10,food & beverages,45500,Food
+2024-05-10,food & beverages,47933,Food
+2024-05-11,utilities,68174,Internet
+2024-05-11,transportation,24400,Transportation expense
+2024-05-11,other,72676,Other expense
+2024-05-11,food & beverages,54697,Food
+2024-05-11,transportation,46000,Transportation expense
+2024-05-11,other,80453,Other expense
+2024-05-11,utilities,52435,Water bill
+2024-05-11,utilities,88879,Electric bill
+2024-05-11,transportation,33700,Transportation expense
+2024-05-12,food & beverages,74171,Food
+2024-05-12,transportation,47500,Transportation expense
+2024-05-12,transportation,20800,Transportation expense
+2024-05-12,food & beverages,22617,Food
+2024-05-12,utilities,31919,Tax
+2024-05-12,health,78390,Health expense
+2024-05-13,transportation,39900,Transportation expense
+2024-05-13,transportation,46600,Transportation expense
+2024-05-13,transportation,30200,Transportation expense
+2024-05-13,utilities,53352,Tax
+2024-05-13,utilities,95800,Water bill
+2024-05-14,entertainment,280632,Shopping
+2024-05-14,transportation,13900,Transportation expense
+2024-05-14,other,19046,Other expense
+2024-05-14,other,71875,Other expense
+2024-05-14,food & beverages,65395,Food
+2024-05-14,food & beverages,62794,Food
+2024-05-15,transportation,35100,Transportation expense
+2024-05-15,transportation,34700,Transportation expense
+2024-05-15,transportation,45300,Transportation expense
+2024-05-15,food & beverages,22774,Food
+2024-05-15,food & beverages,49658,Food
+2024-05-15,food & beverages,69710,Food
+2024-05-15,food & beverages,34553,Beverage
+2024-05-15,transportation,45700,Transportation expense
+2024-05-15,transportation,34900,Transportation expense
+2024-05-15,health,52441,Health expense
+2024-05-15,transportation,20200,Transportation expense
+2024-05-16,entertainment,446133,Arcade
+2024-06-01,health,300000,Gym membership
+2024-06-01,entertainment,453198,Shopping
+2024-06-01,health,44662,Health expense
+2024-06-01,utilities,82835,Water bill
+2024-06-01,food & beverages,34869,Food
+2024-06-02,entertainment,199627,Shopping
+2024-06-02,utilities,51797,Tax
+2024-06-02,utilities,71987,Water bill
+2024-06-02,other,82362,Other expense
+2024-06-02,food & beverages,45556,Beverage
+2024-06-03,food & beverages,72855,Beverage
+2024-06-03,transportation,16500,Transportation expense
+2024-06-03,utilities,61973,Tax
+2024-06-03,other,58589,Other expense
+2024-06-03,food & beverages,71628,Beverage
+2024-06-03,food & beverages,32090,Beverage
+2024-06-03,transportation,48300,Transportation expense
+2024-06-03,transportation,37400,Transportation expense
+2024-06-03,food & beverages,30074,Beverage
+2024-06-03,transportation,26100,Transportation expense
+2024-06-03,transportation,32100,Transportation expense
+2024-06-03,food & beverages,78341,Food
+2024-06-03,utilities,80401,Tax
+2024-06-04,food & beverages,50818,Beverage
+2024-06-04,transportation,45500,Transportation expense
+2024-06-04,other,17698,Other expense
+2024-06-04,transportation,14900,Transportation expense
+2024-06-04,other,97584,Other expense
+2024-06-04,food & beverages,24010,Beverage
+2024-06-04,health,50334,Health expense
+2024-06-05,food & beverages,39458,Food
+2024-06-05,food & beverages,76204,Food
+2024-06-05,transportation,41700,Transportation expense
+2024-06-05,utilities,20866,Electric bill
+2024-06-05,transportation,37000,Transportation expense
+2024-06-05,food & beverages,33005,Food
+2024-06-06,food & beverages,59173,Food
+2024-06-06,transportation,21700,Transportation expense
+2024-06-06,food & beverages,24758,Beverage
+2024-06-06,food & beverages,31542,Food
+2024-06-06,utilities,72022,Internet
+2024-06-06,food & beverages,45080,Food
+2024-06-06,transportation,24800,Transportation expense
+2024-06-06,food & beverages,20283,Food
+2024-06-06,utilities,32255,Electric bill
+2024-06-06,transportation,34700,Transportation expense
+2024-06-06,transportation,13700,Transportation expense
+2024-06-06,utilities,30837,Water bill
+2024-06-06,transportation,38400,Transportation expense
+2024-06-07,transportation,16200,Transportation expense
+2024-06-07,health,25577,Health expense
+2024-06-07,food & beverages,60369,Food
+2024-06-07,health,82324,Health expense
+2024-06-07,food & beverages,59854,Food
+2024-06-07,other,81176,Other expense
+2024-06-07,transportation,12200,Transportation expense
+2024-06-07,food & beverages,16026,Food
+2024-06-07,other,86943,Other expense
+2024-06-07,food & beverages,68798,Food
+2024-06-07,transportation,15000,Transportation expense
+2024-06-07,food & beverages,52138,Food
+2024-06-07,health,71007,Health expense
+2024-06-07,utilities,70311,Internet
+2024-06-07,utilities,30279,Water bill
+2024-06-08,food & beverages,30213,Beverage
+2024-06-08,health,64642,Health expense
+2024-06-08,transportation,49000,Transportation expense
+2024-06-08,transportation,31400,Transportation expense
+2024-06-08,food & beverages,44527,Beverage
+2024-06-08,transportation,33300,Transportation expense
+2024-06-08,transportation,34600,Transportation expense
+2024-06-08,transportation,48400,Transportation expense
+2024-06-08,utilities,58715,Electric bill
+2024-06-08,utilities,30752,Electric bill
+2024-06-08,food & beverages,66373,Beverage
+2024-06-08,transportation,35500,Transportation expense
+2024-06-08,food & beverages,15340,Beverage
+2024-06-09,utilities,37367,Electric bill
+2024-06-09,food & beverages,51502,Food
+2024-06-09,transportation,36700,Transportation expense
+2024-06-09,food & beverages,51321,Beverage
+2024-06-09,food & beverages,36261,Food
+2024-06-09,health,21617,Health expense
+2024-06-09,food & beverages,20550,Beverage
+2024-06-09,utilities,94967,Water bill
+2024-06-09,transportation,35000,Transportation expense
+2024-06-10,entertainment,257879,Cinema
+2024-06-10,transportation,14100,Transportation expense
+2024-06-10,food & beverages,34644,Beverage
+2024-06-10,transportation,15000,Transportation expense
+2024-06-10,food & beverages,62244,Food
+2024-06-10,transportation,48900,Transportation expense
+2024-06-10,transportation,40000,Transportation expense
+2024-06-11,entertainment,103548,Arcade
+2024-06-11,food & beverages,67695,Food
+2024-06-11,health,77700,Health expense
+2024-06-11,food & beverages,71328,Food
+2024-06-11,utilities,59378,Water bill
+2024-06-11,food & beverages,28163,Food
+2024-06-12,other,51830,Other expense
+2024-06-12,food & beverages,47178,Food
+2024-06-12,other,41775,Other expense
+2024-06-12,food & beverages,66502,Beverage
+2024-06-12,transportation,17500,Transportation expense
+2024-06-12,other,36188,Other expense
+2024-06-12,transportation,45800,Transportation expense
+2024-06-12,food & beverages,16763,Food
+2024-06-12,other,70505,Other expense
+2024-06-12,other,37479,Other expense
+2024-06-12,transportation,29100,Transportation expense
+2024-06-12,health,29064,Health expense
+2024-06-13,food & beverages,31559,Beverage
+2024-06-13,utilities,69412,Tax
+2024-06-13,food & beverages,46407,Food
+2024-06-13,transportation,45000,Transportation expense
+2024-06-13,transportation,37400,Transportation expense
+2024-06-13,transportation,33600,Transportation expense
+2024-06-13,utilities,34335,Electric bill
+2024-06-13,utilities,41802,Internet
+2024-06-13,utilities,93822,Electric bill
+2024-06-13,other,98797,Other expense
+2024-06-13,utilities,76420,Internet
+2024-06-14,entertainment,235653,Karaoke
+2024-06-14,transportation,44000,Transportation expense
+2024-06-14,transportation,47700,Transportation expense
+2024-06-14,food & beverages,45347,Beverage
+2024-06-14,utilities,65215,Water bill
+2024-06-14,other,73277,Other expense
+2024-06-15,entertainment,145012,Shopping
+2024-06-15,health,115702,Health expense
+2024-06-15,food & beverages,44840,Beverage
+2024-06-15,utilities,65652,Tax
+2024-06-15,transportation,38700,Transportation expense
+2024-06-15,utilities,61800,Tax
+2024-06-16,utilities,22960,Electric bill
+2024-06-16,health,104930,Health expense
+2024-06-16,food & beverages,75943,Food
+2024-06-16,other,41970,Other expense
+2024-06-16,transportation,46200,Transportation expense
+2024-06-16,food & beverages,77813,Food
+2024-06-17,entertainment,312361,Karaoke
+2024-07-01,health,300000,Gym membership
+2024-07-01,other,76248,Other expense
+2024-07-01,utilities,84451,Tax
+2024-07-01,transportation,39100,Transportation expense
+2024-07-01,transportation,15400,Transportation expense
+2024-07-01,transportation,24500,Transportation expense
+2024-07-01,food & beverages,50232,Beverage
+2024-07-01,food & beverages,52070,Food
+2024-07-02,food & beverages,65797,Beverage
+2024-07-02,transportation,34000,Transportation expense
+2024-07-02,transportation,12700,Transportation expense
+2024-07-02,utilities,91611,Tax
+2024-07-02,food & beverages,63233,Food
+2024-07-02,health,118480,Health expense
+2024-07-02,food & beverages,17112,Food
+2024-07-02,transportation,32800,Transportation expense
+2024-07-02,health,31401,Health expense
+2024-07-02,transportation,17700,Transportation expense
+2024-07-02,utilities,47509,Water bill
+2024-07-02,utilities,99988,Internet
+2024-07-03,transportation,23500,Transportation expense
+2024-07-03,utilities,94720,Electric bill
+2024-07-03,food & beverages,50308,Beverage
+2024-07-03,food & beverages,34178,Food
+2024-07-03,food & beverages,71230,Beverage
+2024-07-03,transportation,16200,Transportation expense
+2024-07-03,food & beverages,41974,Food
+2024-07-03,other,46349,Other expense
+2024-07-03,health,36631,Health expense
+2024-07-03,utilities,52725,Water bill
+2024-07-03,food & beverages,31223,Beverage
+2024-07-03,utilities,84154,Tax
+2024-07-03,food & beverages,56144,Food
+2024-07-03,transportation,39600,Transportation expense
+2024-07-03,food & beverages,65389,Food
+2024-07-04,utilities,79597,Internet
+2024-07-04,other,52898,Other expense
+2024-07-04,transportation,16100,Transportation expense
+2024-07-04,utilities,66952,Tax
+2024-07-04,health,90048,Health expense
+2024-07-04,transportation,38200,Transportation expense
+2024-07-05,food & beverages,50868,Beverage
+2024-07-05,transportation,47100,Transportation expense
+2024-07-05,health,65054,Health expense
+2024-07-05,health,119910,Health expense
+2024-07-05,food & beverages,66372,Beverage
+2024-07-05,health,22134,Health expense
+2024-07-05,food & beverages,43920,Food
+2024-07-05,transportation,38000,Transportation expense
+2024-07-06,other,95196,Other expense
+2024-07-06,food & beverages,72448,Food
+2024-07-06,food & beverages,31409,Food
+2024-07-06,food & beverages,57527,Food
+2024-07-06,food & beverages,35021,Beverage
+2024-07-06,utilities,76260,Water bill
+2024-07-06,utilities,20142,Electric bill
+2024-07-06,food & beverages,53907,Beverage
+2024-07-07,transportation,10500,Transportation expense
+2024-07-07,utilities,75353,Electric bill
+2024-07-07,utilities,29283,Tax
+2024-07-07,food & beverages,67819,Beverage
+2024-07-07,food & beverages,72736,Beverage
+2024-07-07,food & beverages,68304,Beverage
+2024-07-07,utilities,38724,Water bill
+2024-07-07,food & beverages,54997,Food
+2024-07-08,entertainment,284123,Karaoke
+2024-07-08,transportation,19900,Transportation expense
+2024-07-08,other,90750,Other expense
+2024-07-08,utilities,31362,Water bill
+2024-07-08,health,38351,Health expense
+2024-07-08,utilities,66076,Tax
+2024-07-08,other,51222,Other expense
+2024-07-08,utilities,56302,Water bill
+2024-07-08,utilities,92534,Water bill
+2024-07-08,transportation,49800,Transportation expense
+2024-07-08,food & beverages,16757,Food
+2024-07-08,health,106298,Health expense
+2024-07-08,health,46928,Health expense
+2024-07-08,transportation,43400,Transportation expense
+2024-07-08,food & beverages,57347,Beverage
+2024-07-09,utilities,84865,Water bill
+2024-07-09,transportation,25800,Transportation expense
+2024-07-09,transportation,48900,Transportation expense
+2024-07-09,food & beverages,15790,Food
+2024-07-09,other,51480,Other expense
+2024-07-10,health,75163,Health expense
+2024-07-10,transportation,21300,Transportation expense
+2024-07-10,utilities,22187,Electric bill
+2024-07-10,transportation,10900,Transportation expense
+2024-07-10,food & beverages,18962,Beverage
+2024-07-10,other,62163,Other expense
+2024-07-10,transportation,42800,Transportation expense
+2024-07-11,transportation,45200,Transportation expense
+2024-07-11,transportation,20000,Transportation expense
+2024-07-11,food & beverages,48508,Beverage
+2024-07-11,other,30365,Other expense
+2024-07-11,transportation,35600,Transportation expense
+2024-07-11,transportation,14300,Transportation expense
+2024-07-11,food & beverages,77483,Food
+2024-07-11,health,27589,Health expense
+2024-07-11,food & beverages,22601,Food
+2024-07-11,transportation,49900,Transportation expense
+2024-07-11,food & beverages,58126,Food
+2024-07-12,entertainment,471143,Karaoke
+2024-07-12,utilities,85065,Water bill
+2024-07-12,other,78551,Other expense
+2024-07-12,transportation,27000,Transportation expense
+2024-07-12,food & beverages,66191,Beverage
+2024-07-12,health,116067,Health expense
+2024-07-12,health,23847,Health expense
+2024-07-13,food & beverages,61682,Beverage
+2024-07-13,other,92251,Other expense
+2024-07-13,food & beverages,38601,Food
+2024-07-13,food & beverages,25936,Food
+2024-07-13,transportation,26700,Transportation expense
+2024-07-13,utilities,49937,Electric bill
+2024-07-13,utilities,25772,Electric bill
+2024-07-13,health,21610,Health expense
+2024-07-13,food & beverages,40098,Food
+2024-07-13,other,33456,Other expense
+2024-07-14,other,95944,Other expense
+2024-07-14,transportation,31100,Transportation expense
+2024-07-14,food & beverages,35967,Food
+2024-07-14,food & beverages,39432,Beverage
+2024-07-14,food & beverages,18451,Food
+2024-07-15,entertainment,370414,Shopping
+2024-07-15,other,19034,Other expense
+2024-07-15,health,57002,Health expense
+2024-07-15,utilities,62899,Internet
+2024-07-15,food & beverages,39177,Food
+2024-07-15,food & beverages,34917,Food
+2024-07-15,utilities,80807,Water bill
+2024-07-16,transportation,22800,Transportation expense
+2024-07-19,entertainment,377775,Karaoke
+2024-08-01,health,300000,Gym membership
+2024-08-01,entertainment,256678,Cinema
+2024-08-01,health,42789,Health expense
+2024-08-01,food & beverages,44635,Food
+2024-08-01,transportation,46100,Transportation expense
+2024-08-01,food & beverages,67684,Food
+2024-08-01,utilities,21567,Electric bill
+2024-08-01,food & beverages,29567,Food
+2024-08-01,food & beverages,39395,Food
+2024-08-01,utilities,96326,Electric bill
+2024-08-01,transportation,14900,Transportation expense
+2024-08-01,food & beverages,74145,Beverage
+2024-08-01,utilities,32055,Water bill
+2024-08-02,entertainment,341694,Shopping
+2024-08-02,food & beverages,68849,Food
+2024-08-02,utilities,23864,Tax
+2024-08-02,transportation,38000,Transportation expense
+2024-08-02,food & beverages,27265,Beverage
+2024-08-02,food & beverages,24740,Food
+2024-08-02,food & beverages,31107,Food
+2024-08-02,utilities,74000,Tax
+2024-08-02,health,82787,Health expense
+2024-08-02,food & beverages,23993,Beverage
+2024-08-03,entertainment,375678,Karaoke
+2024-08-03,transportation,45600,Transportation expense
+2024-08-03,utilities,67069,Tax
+2024-08-03,transportation,41800,Transportation expense
+2024-08-03,food & beverages,36076,Food
+2024-08-03,transportation,21800,Transportation expense
+2024-08-03,food & beverages,16920,Food
+2024-08-03,health,56822,Health expense
+2024-08-03,food & beverages,49696,Food
+2024-08-03,food & beverages,30254,Food
+2024-08-03,other,23124,Other expense
+2024-08-04,food & beverages,75113,Food
+2024-08-04,utilities,95457,Water bill
+2024-08-04,health,70911,Health expense
+2024-08-04,food & beverages,70392,Food
+2024-08-04,food & beverages,35840,Beverage
+2024-08-04,utilities,97537,Internet
+2024-08-04,food & beverages,77099,Food
+2024-08-04,transportation,19300,Transportation expense
+2024-08-05,health,84517,Health expense
+2024-08-05,transportation,21500,Transportation expense
+2024-08-05,transportation,15900,Transportation expense
+2024-08-05,food & beverages,16306,Food
+2024-08-05,transportation,10000,Transportation expense
+2024-08-05,food & beverages,67851,Food
+2024-08-05,food & beverages,75213,Food
+2024-08-05,utilities,27806,Internet
+2024-08-05,food & beverages,75111,Food
+2024-08-05,food & beverages,49491,Beverage
+2024-08-05,health,29506,Health expense
+2024-08-05,transportation,35900,Transportation expense
+2024-08-05,transportation,32100,Transportation expense
+2024-08-05,food & beverages,25322,Beverage
+2024-08-06,other,95089,Other expense
+2024-08-06,food & beverages,51829,Food
+2024-08-06,utilities,49260,Internet
+2024-08-06,utilities,69595,Water bill
+2024-08-06,food & beverages,23345,Food
+2024-08-06,food & beverages,61006,Beverage
+2024-08-06,other,61327,Other expense
+2024-08-06,health,94381,Health expense
+2024-08-06,food & beverages,75361,Food
+2024-08-06,utilities,94127,Water bill
+2024-08-06,food & beverages,36703,Food
+2024-08-07,entertainment,267519,Karaoke
+2024-08-07,transportation,15800,Transportation expense
+2024-08-07,health,107821,Health expense
+2024-08-07,utilities,78540,Internet
+2024-08-07,food & beverages,60427,Beverage
+2024-08-07,food & beverages,22080,Beverage
+2024-08-08,entertainment,329753,Arcade
+2024-08-08,other,64266,Other expense
+2024-08-08,transportation,34800,Transportation expense
+2024-08-08,food & beverages,69316,Beverage
+2024-08-08,transportation,47900,Transportation expense
+2024-08-09,food & beverages,67376,Food
+2024-08-09,health,58654,Health expense
+2024-08-09,food & beverages,21863,Beverage
+2024-08-09,food & beverages,39606,Beverage
+2024-08-09,food & beverages,76724,Beverage
+2024-08-09,health,32203,Health expense
+2024-08-09,food & beverages,73538,Food
+2024-08-09,transportation,12000,Transportation expense
+2024-08-09,transportation,20800,Transportation expense
+2024-08-09,transportation,38500,Transportation expense
+2024-08-09,food & beverages,28470,Beverage
+2024-08-09,other,63645,Other expense
+2024-08-09,utilities,56899,Internet
+2024-08-09,food & beverages,40749,Beverage
+2024-08-09,transportation,42200,Transportation expense
+2024-08-10,entertainment,102000,Arcade
+2024-08-10,food & beverages,55965,Food
+2024-08-10,transportation,23100,Transportation expense
+2024-08-10,food & beverages,56824,Beverage
+2024-08-10,food & beverages,70297,Beverage
+2024-08-10,food & beverages,45863,Food
+2024-08-10,transportation,27400,Transportation expense
+2024-08-11,transportation,34300,Transportation expense
+2024-08-11,health,68418,Health expense
+2024-08-11,food & beverages,43818,Beverage
+2024-08-11,transportation,24800,Transportation expense
+2024-08-11,health,93956,Health expense
+2024-08-11,food & beverages,58743,Food
+2024-08-12,entertainment,280245,Arcade
+2024-08-12,other,87296,Other expense
+2024-08-12,food & beverages,40369,Beverage
+2024-08-12,health,74870,Health expense
+2024-08-12,other,72236,Other expense
+2024-08-12,transportation,25400,Transportation expense
+2024-08-13,entertainment,306991,Shopping
+2024-08-13,transportation,43900,Transportation expense
+2024-08-13,utilities,35765,Water bill
+2024-08-13,other,68856,Other expense
+2024-08-13,food & beverages,78711,Food
+2024-08-13,food & beverages,17796,Beverage
+2024-08-13,transportation,38500,Transportation expense
+2024-08-13,food & beverages,24691,Food
+2024-08-13,health,53801,Health expense
+2024-08-13,food & beverages,67910,Food
+2024-08-13,food & beverages,41041,Beverage
+2024-08-13,transportation,28100,Transportation expense
+2024-08-14,health,111804,Health expense
+2024-08-14,transportation,44200,Transportation expense
+2024-08-14,utilities,74321,Electric bill
+2024-08-14,food & beverages,53186,Food
+2024-08-14,utilities,33845,Electric bill
+2024-08-14,transportation,16600,Transportation expense
+2024-08-14,utilities,73856,Internet
+2024-08-14,food & beverages,52488,Food
+2024-08-14,transportation,12500,Transportation expense
+2024-08-14,food & beverages,55517,Food
+2024-08-14,transportation,36300,Transportation expense
+2024-08-14,food & beverages,36724,Food
+2024-08-14,utilities,82287,Electric bill
+2024-08-15,food & beverages,34861,Food
+2024-08-15,food & beverages,71245,Food
+2024-08-15,utilities,49878,Electric bill
+2024-08-15,food & beverages,44039,Food
+2024-08-15,utilities,55313,Internet
+2024-08-15,utilities,44633,Electric bill
+2024-08-15,transportation,36700,Transportation expense
+2024-08-15,utilities,27367,Internet
+2024-08-15,transportation,20400,Transportation expense
+2024-08-16,transportation,18900,Transportation expense
+2024-08-16,utilities,42772,Electric bill
+2024-08-16,food & beverages,69852,Food
+2024-08-16,food & beverages,18313,Beverage
+2024-08-16,other,36097,Other expense
+2024-08-16,food & beverages,48103,Food
+2024-08-17,food & beverages,39409,Beverage
+2024-08-17,transportation,39200,Transportation expense
+2024-08-17,food & beverages,53461,Food
+2024-08-17,transportation,32600,Transportation expense
+2024-08-17,food & beverages,64083,Food
+2024-08-17,health,31847,Health expense
+2024-08-17,food & beverages,25676,Beverage
+2024-08-17,health,48091,Health expense
+2024-08-17,health,104853,Health expense
+2024-08-17,food & beverages,57702,Beverage
+2024-08-17,transportation,11300,Transportation expense
+2024-08-18,entertainment,169370,Karaoke
+2024-08-18,transportation,10600,Transportation expense
+2024-08-18,food & beverages,76800,Food
+2024-08-18,food & beverages,57122,Food
+2024-08-18,food & beverages,70809,Food
+2024-08-18,food & beverages,45585,Beverage
+2024-08-18,food & beverages,55868,Food
+2024-08-18,transportation,16700,Transportation expense
+2024-08-18,food & beverages,78339,Food
+2024-08-18,health,69051,Health expense
+2024-08-18,transportation,48900,Transportation expense
+2024-08-18,transportation,29600,Transportation expense
+2024-08-18,utilities,28367,Tax
+2024-08-18,food & beverages,36308,Beverage
+2024-08-18,health,54229,Health expense
+2024-08-19,health,59163,Health expense
+2024-08-19,food & beverages,30748,Food
+2024-08-19,health,98647,Health expense
+2024-08-19,transportation,30900,Transportation expense
+2024-08-19,utilities,85191,Electric bill
+2024-08-19,other,44003,Other expense
+2024-08-19,health,73031,Health expense
+2024-08-19,transportation,12300,Transportation expense
+2024-08-19,transportation,47500,Transportation expense
+2024-08-19,utilities,49145,Internet
+2024-08-19,utilities,66988,Tax
+2024-08-19,transportation,21100,Transportation expense
+2024-08-20,entertainment,346824,Karaoke
+2024-09-01,health,300000,Gym membership
+2024-09-01,transportation,38100,Transportation expense
+2024-09-01,other,60242,Other expense
+2024-09-01,food & beverages,62884,Food
+2024-09-01,transportation,10900,Transportation expense
+2024-09-01,health,119201,Health expense
+2024-09-01,health,44979,Health expense
+2024-09-01,food & beverages,63077,Beverage
+2024-09-01,food & beverages,37567,Food
+2024-09-01,food & beverages,47986,Beverage
+2024-09-01,transportation,20900,Transportation expense
+2024-09-01,food & beverages,77158,Beverage
+2024-09-01,food & beverages,54083,Food
+2024-09-01,transportation,38400,Transportation expense
+2024-09-02,food & beverages,38543,Food
+2024-09-02,utilities,72873,Water bill
+2024-09-02,food & beverages,79545,Beverage
+2024-09-02,food & beverages,53646,Food
+2024-09-02,transportation,18100,Transportation expense
+2024-09-02,transportation,12400,Transportation expense
+2024-09-02,transportation,26800,Transportation expense
+2024-09-02,utilities,97846,Electric bill
+2024-09-02,other,96765,Other expense
+2024-09-02,food & beverages,18161,Food
+2024-09-02,utilities,78237,Tax
+2024-09-02,transportation,45900,Transportation expense
+2024-09-02,food & beverages,28467,Food
+2024-09-02,utilities,59467,Electric bill
+2024-09-02,transportation,16600,Transportation expense
+2024-09-03,transportation,19000,Transportation expense
+2024-09-03,transportation,16900,Transportation expense
+2024-09-03,transportation,17700,Transportation expense
+2024-09-03,food & beverages,47619,Food
+2024-09-03,food & beverages,32235,Beverage
+2024-09-03,health,46433,Health expense
+2024-09-03,food & beverages,25510,Food
+2024-09-03,food & beverages,28611,Food
+2024-09-03,utilities,63332,Tax
+2024-09-03,food & beverages,20832,Beverage
+2024-09-03,health,95255,Health expense
+2024-09-03,utilities,31807,Water bill
+2024-09-03,utilities,33276,Electric bill
+2024-09-03,health,104454,Health expense
+2024-09-03,food & beverages,34400,Food
+2024-09-04,food & beverages,17585,Beverage
+2024-09-04,health,67214,Health expense
+2024-09-04,utilities,75836,Internet
+2024-09-04,utilities,26014,Electric bill
+2024-09-04,food & beverages,57414,Beverage
+2024-09-04,food & beverages,43686,Beverage
+2024-09-04,other,45167,Other expense
+2024-09-04,health,32183,Health expense
+2024-09-04,transportation,32500,Transportation expense
+2024-09-05,entertainment,309846,Arcade
+2024-09-05,food & beverages,70749,Beverage
+2024-09-05,transportation,37600,Transportation expense
+2024-09-05,utilities,34818,Water bill
+2024-09-05,food & beverages,79328,Food
+2024-09-05,other,30892,Other expense
+2024-09-05,food & beverages,46632,Food
+2024-09-06,food & beverages,38501,Beverage
+2024-09-06,transportation,18600,Transportation expense
+2024-09-06,transportation,42000,Transportation expense
+2024-09-06,food & beverages,18012,Food
+2024-09-06,food & beverages,15810,Food
+2024-09-06,utilities,64341,Water bill
+2024-09-06,transportation,16200,Transportation expense
+2024-09-06,transportation,26300,Transportation expense
+2024-09-06,transportation,35200,Transportation expense
+2024-09-06,food & beverages,73462,Food
+2024-09-06,other,17152,Other expense
+2024-09-06,food & beverages,48132,Food
+2024-09-06,health,84990,Health expense
+2024-09-06,health,29812,Health expense
+2024-09-07,food & beverages,48222,Beverage
+2024-09-07,food & beverages,41429,Food
+2024-09-07,utilities,80174,Electric bill
+2024-09-07,transportation,47600,Transportation expense
+2024-09-07,transportation,42700,Transportation expense
+2024-09-07,transportation,17800,Transportation expense
+2024-09-07,other,95638,Other expense
+2024-09-07,food & beverages,17348,Food
+2024-09-07,transportation,10000,Transportation expense
+2024-09-07,health,99194,Health expense
+2024-09-07,other,93563,Other expense
+2024-09-07,food & beverages,28556,Food
+2024-09-08,other,57624,Other expense
+2024-09-08,health,49218,Health expense
+2024-09-08,health,63512,Health expense
+2024-09-08,transportation,49300,Transportation expense
+2024-09-08,transportation,33800,Transportation expense
+2024-09-08,utilities,32771,Electric bill
+2024-09-08,utilities,20287,Water bill
+2024-09-08,food & beverages,78205,Food
+2024-09-08,utilities,33935,Internet
+2024-09-08,food & beverages,24204,Beverage
+2024-09-08,health,117322,Health expense
+2024-09-08,utilities,53330,Electric bill
+2024-09-08,transportation,22300,Transportation expense
+2024-09-08,food & beverages,29128,Food
+2024-09-08,transportation,22500,Transportation expense
+2024-09-09,entertainment,317301,Shopping
+2024-09-09,other,98098,Other expense
+2024-09-09,transportation,39500,Transportation expense
+2024-09-09,transportation,48600,Transportation expense
+2024-09-09,other,27647,Other expense
+2024-09-09,other,10568,Other expense
+2024-09-09,transportation,13200,Transportation expense
+2024-09-09,transportation,38400,Transportation expense
+2024-09-09,health,83298,Health expense
+2024-09-09,other,33226,Other expense
+2024-09-10,entertainment,167309,Shopping
+2024-09-10,transportation,49400,Transportation expense
+2024-09-10,transportation,31100,Transportation expense
+2024-09-10,transportation,35200,Transportation expense
+2024-09-10,transportation,49900,Transportation expense
+2024-09-10,other,42537,Other expense
+2024-09-10,food & beverages,78602,Food
+2024-09-10,food & beverages,24055,Food
+2024-09-10,transportation,43600,Transportation expense
+2024-09-10,food & beverages,71407,Food
+2024-09-10,food & beverages,51279,Food
+2024-09-10,transportation,23200,Transportation expense
+2024-09-10,food & beverages,59997,Food
+2024-09-10,food & beverages,79312,Food
+2024-09-11,food & beverages,56738,Food
+2024-09-11,food & beverages,38084,Beverage
+2024-09-11,transportation,48200,Transportation expense
+2024-09-11,transportation,37400,Transportation expense
+2024-09-11,utilities,75363,Internet
+2024-09-11,utilities,23312,Electric bill
+2024-09-11,transportation,13500,Transportation expense
+2024-09-11,utilities,54993,Water bill
+2024-09-11,utilities,57567,Water bill
+2024-09-11,utilities,28130,Water bill
+2024-09-11,utilities,46738,Internet
+2024-09-11,utilities,67013,Electric bill
+2024-09-11,utilities,93647,Electric bill
+2024-09-11,health,117309,Health expense
+2024-09-11,utilities,51142,Tax
+2024-09-12,utilities,26157,Internet
+2024-09-12,other,60797,Other expense
+2024-09-12,transportation,30500,Transportation expense
+2024-09-12,other,17051,Other expense
+2024-09-12,food & beverages,55669,Beverage
+2024-09-14,food & beverages,27681,Food
+2024-09-15,entertainment,191118,Shopping
+2024-10-01,health,300000,Gym membership
+2024-10-01,entertainment,382053,Shopping
+2024-10-01,transportation,23800,Transportation expense
+2024-10-01,utilities,75601,Water bill
+2024-10-01,health,46945,Health expense
+2024-10-01,transportation,38500,Transportation expense
+2024-10-02,food & beverages,16556,Food
+2024-10-02,transportation,31700,Transportation expense
+2024-10-02,food & beverages,26664,Beverage
+2024-10-02,utilities,95361,Electric bill
+2024-10-02,health,53901,Health expense
+2024-10-02,transportation,39600,Transportation expense
+2024-10-02,transportation,38400,Transportation expense
+2024-10-02,food & beverages,22753,Beverage
+2024-10-02,transportation,14100,Transportation expense
+2024-10-02,utilities,29514,Electric bill
+2024-10-02,food & beverages,33994,Food
+2024-10-02,utilities,99503,Internet
+2024-10-02,food & beverages,43683,Food
+2024-10-02,transportation,12000,Transportation expense
+2024-10-02,transportation,45000,Transportation expense
+2024-10-03,entertainment,304992,Cinema
+2024-10-03,other,28884,Other expense
+2024-10-03,food & beverages,78266,Food
+2024-10-03,utilities,21461,Internet
+2024-10-03,transportation,46400,Transportation expense
+2024-10-03,food & beverages,52533,Beverage
+2024-10-03,transportation,45200,Transportation expense
+2024-10-03,transportation,15600,Transportation expense
+2024-10-04,entertainment,488723,Cinema
+2024-10-04,food & beverages,70801,Food
+2024-10-04,transportation,20500,Transportation expense
+2024-10-04,food & beverages,31563,Food
+2024-10-04,food & beverages,67406,Beverage
+2024-10-04,transportation,13600,Transportation expense
+2024-10-04,health,91939,Health expense
+2024-10-04,transportation,46000,Transportation expense
+2024-10-04,food & beverages,31429,Food
+2024-10-05,entertainment,404399,Arcade
+2024-10-05,other,56810,Other expense
+2024-10-05,food & beverages,21556,Food
+2024-10-05,food & beverages,27681,Beverage
+2024-10-05,food & beverages,55392,Food
+2024-10-05,utilities,94128,Water bill
+2024-10-06,food & beverages,15316,Food
+2024-10-06,food & beverages,61674,Food
+2024-10-06,utilities,56264,Tax
+2024-10-06,health,37603,Health expense
+2024-10-06,utilities,82908,Internet
+2024-10-06,transportation,33500,Transportation expense
+2024-10-06,utilities,92308,Tax
+2024-10-06,food & beverages,20372,Food
+2024-10-06,health,38350,Health expense
+2024-10-06,health,45746,Health expense
+2024-10-06,food & beverages,20011,Food
+2024-10-06,utilities,86476,Electric bill
+2024-10-06,transportation,48100,Transportation expense
+2024-10-06,transportation,48700,Transportation expense
+2024-10-07,transportation,45600,Transportation expense
+2024-10-07,health,90736,Health expense
+2024-10-07,transportation,19700,Transportation expense
+2024-10-07,transportation,24600,Transportation expense
+2024-10-07,health,97280,Health expense
+2024-10-07,utilities,37548,Internet
+2024-10-07,transportation,43400,Transportation expense
+2024-10-07,food & beverages,15694,Beverage
+2024-10-08,entertainment,421931,Karaoke
+2024-10-08,utilities,78487,Water bill
+2024-10-08,food & beverages,52081,Food
+2024-10-08,utilities,83373,Water bill
+2024-10-08,other,15297,Other expense
+2024-10-08,food & beverages,19119,Food
+2024-10-08,food & beverages,58816,Beverage
+2024-10-08,food & beverages,38674,Food
+2024-10-08,transportation,39800,Transportation expense
+2024-10-08,health,25230,Health expense
+2024-10-08,other,52476,Other expense
+2024-10-08,food & beverages,56521,Food
+2024-10-08,health,117243,Health expense
+2024-10-08,food & beverages,26393,Food
+2024-10-08,transportation,34800,Transportation expense
+2024-10-09,health,30202,Health expense
+2024-10-09,transportation,34700,Transportation expense
+2024-10-09,other,39215,Other expense
+2024-10-09,transportation,33100,Transportation expense
+2024-10-09,utilities,83813,Internet
+2024-10-09,utilities,85776,Electric bill
+2024-10-09,health,77658,Health expense
+2024-10-09,food & beverages,57170,Beverage
+2024-10-09,food & beverages,25312,Beverage
+2024-10-09,food & beverages,22754,Food
+2024-10-10,entertainment,273132,Shopping
+2024-10-10,transportation,41400,Transportation expense
+2024-10-10,transportation,48700,Transportation expense
+2024-10-10,food & beverages,16471,Food
+2024-10-10,food & beverages,53820,Beverage
+2024-10-10,food & beverages,17568,Food
+2024-10-10,health,39249,Health expense
+2024-10-10,food & beverages,26798,Beverage
+2024-10-10,transportation,36600,Transportation expense
+2024-10-10,transportation,46900,Transportation expense
+2024-10-10,utilities,31239,Internet
+2024-10-10,food & beverages,45894,Food
+2024-10-10,health,42356,Health expense
+2024-10-10,food & beverages,24352,Food
+2024-10-10,utilities,86952,Water bill
+2024-10-11,entertainment,459447,Cinema
+2024-10-11,other,88188,Other expense
+2024-10-11,transportation,25100,Transportation expense
+2024-10-11,transportation,18700,Transportation expense
+2024-10-11,food & beverages,71334,Beverage
+2024-10-11,other,99701,Other expense
+2024-10-11,transportation,19800,Transportation expense
+2024-10-11,transportation,21600,Transportation expense
+2024-10-11,transportation,49300,Transportation expense
+2024-10-12,transportation,17700,Transportation expense
+2024-10-12,food & beverages,74112,Food
+2024-10-12,transportation,10100,Transportation expense
+2024-10-12,health,108940,Health expense
+2024-10-12,utilities,68546,Tax
+2024-10-13,transportation,41600,Transportation expense
+2024-10-13,utilities,65943,Tax
+2024-10-13,transportation,47800,Transportation expense
+2024-10-13,food & beverages,46269,Beverage
+2024-10-13,utilities,57128,Electric bill
+2024-10-14,transportation,22400,Transportation expense
+2024-10-14,food & beverages,15466,Food
+2024-10-14,transportation,17700,Transportation expense
+2024-10-14,transportation,34600,Transportation expense
+2024-10-14,utilities,73588,Internet
+2024-10-14,food & beverages,57701,Beverage
+2024-10-14,transportation,27100,Transportation expense
+2024-10-14,health,75517,Health expense
+2024-10-14,transportation,28100,Transportation expense
+2024-10-14,other,62095,Other expense
+2024-10-14,utilities,92365,Tax
+2024-10-14,utilities,43425,Tax
+2024-10-14,transportation,46400,Transportation expense
+2024-10-14,transportation,30100,Transportation expense
+2024-10-15,utilities,35608,Water bill
+2024-10-15,utilities,41206,Tax
+2024-10-15,food & beverages,66516,Food
+2024-10-15,food & beverages,60682,Food
+2024-10-15,utilities,41068,Electric bill
+2024-10-15,transportation,10300,Transportation expense
+2024-10-15,utilities,81822,Water bill
+2024-10-15,other,67065,Other expense
+2024-10-15,food & beverages,39303,Beverage
+2024-10-15,food & beverages,40187,Beverage
+2024-10-15,other,62513,Other expense
+2024-10-15,transportation,44100,Transportation expense
+2024-10-15,food & beverages,18765,Food
+2024-10-15,other,32973,Other expense
+2024-10-16,food & beverages,75998,Food
+2024-10-16,utilities,45525,Internet
+2024-10-16,food & beverages,48804,Food
+2024-10-16,utilities,24726,Water bill
+2024-10-16,food & beverages,78939,Food
+2024-10-16,food & beverages,66096,Food
+2024-10-16,transportation,35900,Transportation expense
+2024-10-16,transportation,23100,Transportation expense
+2024-10-16,transportation,14500,Transportation expense
+2024-10-16,other,82036,Other expense
+2024-10-16,food & beverages,74966,Food
+2024-10-16,transportation,32800,Transportation expense
+2024-10-16,other,46242,Other expense
+2024-10-16,food & beverages,44803,Food
+2024-10-16,other,85354,Other expense
+2024-10-17,entertainment,313455,Shopping
+2024-10-17,transportation,43000,Transportation expense
+2024-10-17,food & beverages,67621,Food
+2024-10-17,transportation,26900,Transportation expense
+2024-10-17,health,95352,Health expense
+2024-10-18,other,83815,Other expense
+2024-10-18,transportation,25900,Transportation expense
+2024-10-18,utilities,80387,Tax
+2024-10-18,health,23584,Health expense
+2024-10-18,transportation,26900,Transportation expense
+2024-10-18,food & beverages,29442,Food
+2024-10-18,utilities,61383,Water bill
+2024-10-18,transportation,33100,Transportation expense
+2024-10-18,transportation,10600,Transportation expense
+2024-10-19,entertainment,148763,Arcade
+2024-10-19,utilities,29965,Internet
+2024-10-19,transportation,21700,Transportation expense
+2024-10-19,transportation,33200,Transportation expense
+2024-10-19,food & beverages,26978,Food
+2024-10-19,other,99536,Other expense
+2024-10-19,other,34925,Other expense
+2024-10-19,transportation,23100,Transportation expense
+2024-10-19,food & beverages,32393,Beverage
+2024-10-20,entertainment,230912,Cinema
+2024-11-01,health,300000,Gym membership
+2024-11-01,food & beverages,39399,Food
+2024-11-01,transportation,36300,Transportation expense
+2024-11-01,food & beverages,23594,Beverage
+2024-11-01,other,99916,Other expense
+2024-11-01,food & beverages,32691,Beverage
+2024-11-01,utilities,69923,Tax
+2024-11-02,entertainment,487208,Karaoke
+2024-11-02,transportation,10600,Transportation expense
+2024-11-02,food & beverages,73541,Food
+2024-11-02,health,87765,Health expense
+2024-11-02,transportation,30700,Transportation expense
+2024-11-02,utilities,52895,Internet
+2024-11-02,transportation,47200,Transportation expense
+2024-11-02,food & beverages,25704,Beverage
+2024-11-03,entertainment,233321,Arcade
+2024-11-03,health,32622,Health expense
+2024-11-03,transportation,31900,Transportation expense
+2024-11-03,food & beverages,51535,Beverage
+2024-11-03,other,43779,Other expense
+2024-11-04,entertainment,163563,Cinema
+2024-11-04,health,99374,Health expense
+2024-11-04,food & beverages,57541,Food
+2024-11-04,transportation,28700,Transportation expense
+2024-11-04,food & beverages,46948,Food
+2024-11-04,utilities,30277,Tax
+2024-11-04,transportation,28800,Transportation expense
+2024-11-04,transportation,19500,Transportation expense
+2024-11-04,health,103962,Health expense
+2024-11-04,utilities,75288,Internet
+2024-11-05,transportation,14700,Transportation expense
+2024-11-05,food & beverages,35544,Beverage
+2024-11-05,food & beverages,32529,Beverage
+2024-11-05,transportation,35900,Transportation expense
+2024-11-05,food & beverages,71544,Food
+2024-11-05,other,86928,Other expense
+2024-11-05,transportation,39500,Transportation expense
+2024-11-05,transportation,22100,Transportation expense
+2024-11-05,health,36389,Health expense
+2024-11-05,utilities,30494,Internet
+2024-11-05,food & beverages,21262,Beverage
+2024-11-05,food & beverages,50942,Food
+2024-11-05,food & beverages,49339,Food
+2024-11-05,utilities,33622,Electric bill
+2024-11-05,food & beverages,57915,Beverage
+2024-11-06,food & beverages,56057,Beverage
+2024-11-06,food & beverages,26180,Food
+2024-11-06,food & beverages,71385,Food
+2024-11-06,other,72410,Other expense
+2024-11-06,transportation,45400,Transportation expense
+2024-11-06,other,81898,Other expense
+2024-11-06,transportation,45300,Transportation expense
+2024-11-06,food & beverages,56356,Food
+2024-11-06,utilities,88610,Tax
+2024-11-06,utilities,65504,Internet
+2024-11-06,transportation,24900,Transportation expense
+2024-11-07,transportation,27000,Transportation expense
+2024-11-07,food & beverages,49296,Beverage
+2024-11-07,utilities,65073,Water bill
+2024-11-07,food & beverages,60073,Food
+2024-11-07,other,72530,Other expense
+2024-11-07,food & beverages,67295,Food
+2024-11-08,utilities,44716,Internet
+2024-11-08,transportation,46700,Transportation expense
+2024-11-08,transportation,26400,Transportation expense
+2024-11-08,food & beverages,40540,Food
+2024-11-08,health,48913,Health expense
+2024-11-08,food & beverages,30699,Food
+2024-11-08,transportation,27800,Transportation expense
+2024-11-08,food & beverages,68006,Food
+2024-11-08,food & beverages,19486,Beverage
+2024-11-09,entertainment,157858,Arcade
+2024-11-09,transportation,27800,Transportation expense
+2024-11-09,utilities,44613,Tax
+2024-11-09,food & beverages,78551,Beverage
+2024-11-09,transportation,22200,Transportation expense
+2024-11-09,other,46977,Other expense
+2024-11-09,food & beverages,62651,Food
+2024-11-10,entertainment,179001,Shopping
+2024-11-10,transportation,32400,Transportation expense
+2024-11-10,transportation,42700,Transportation expense
+2024-11-10,other,70776,Other expense
+2024-11-10,utilities,63286,Electric bill
+2024-11-11,other,17345,Other expense
+2024-11-11,food & beverages,50598,Beverage
+2024-11-11,transportation,22600,Transportation expense
+2024-11-11,health,52778,Health expense
+2024-11-11,utilities,35985,Electric bill
+2024-11-11,other,42631,Other expense
+2024-11-12,transportation,12200,Transportation expense
+2024-11-12,food & beverages,21157,Food
+2024-11-12,transportation,23700,Transportation expense
+2024-11-12,transportation,30500,Transportation expense
+2024-11-12,other,30789,Other expense
+2024-11-12,transportation,12800,Transportation expense
+2024-11-12,utilities,53202,Electric bill
+2024-11-12,transportation,29600,Transportation expense
+2024-11-12,food & beverages,71600,Food
+2024-11-12,utilities,50928,Electric bill
+2024-11-12,transportation,31300,Transportation expense
+2024-11-13,entertainment,244755,Shopping
+2024-11-13,transportation,25900,Transportation expense
+2024-11-13,food & beverages,66345,Beverage
+2024-11-13,utilities,68679,Water bill
+2024-11-13,utilities,40669,Water bill
+2024-11-14,entertainment,424348,Cinema
+2024-11-14,other,91937,Other expense
+2024-11-14,food & beverages,25087,Beverage
+2024-11-14,utilities,36492,Electric bill
+2024-11-14,transportation,30800,Transportation expense
+2024-11-14,other,94495,Other expense
+2024-11-14,utilities,45292,Tax
+2024-11-14,food & beverages,62474,Beverage
+2024-11-14,food & beverages,46804,Food
+2024-11-14,utilities,91137,Internet
+2024-11-14,utilities,94278,Water bill
+2024-11-14,food & beverages,62998,Beverage
+2024-11-15,entertainment,413880,Karaoke
+2024-11-15,food & beverages,34377,Beverage
+2024-11-15,health,90989,Health expense
+2024-11-15,transportation,10000,Transportation expense
+2024-11-15,utilities,44318,Tax
+2024-11-15,health,101229,Health expense
+2024-11-15,health,101290,Health expense
+2024-11-15,food & beverages,58141,Food
+2024-11-15,other,60789,Other expense
+2024-11-15,food & beverages,65183,Food
+2024-11-15,transportation,28600,Transportation expense
+2024-11-15,food & beverages,22239,Food
+2024-11-16,food & beverages,23504,Food
+2024-11-16,food & beverages,22015,Beverage
+2024-11-16,transportation,16500,Transportation expense
+2024-11-16,food & beverages,40467,Food
+2024-11-16,utilities,26433,Internet
+2024-11-16,transportation,49700,Transportation expense
+2024-11-17,entertainment,209438,Arcade
+2024-11-17,other,20480,Other expense
+2024-11-17,transportation,14000,Transportation expense
+2024-11-17,food & beverages,73355,Food
+2024-11-17,transportation,34200,Transportation expense
+2024-11-17,utilities,54840,Electric bill
+2024-11-18,entertainment,136903,Cinema
+2024-11-18,food & beverages,49044,Beverage
+2024-11-18,food & beverages,49842,Food
+2024-11-18,transportation,22700,Transportation expense
+2024-11-18,transportation,26300,Transportation expense
+2024-11-18,transportation,21700,Transportation expense
+2024-11-18,transportation,46600,Transportation expense
+2024-11-18,transportation,16900,Transportation expense
+2024-11-18,utilities,80125,Internet
+2024-11-18,utilities,33644,Tax
+2024-11-18,food & beverages,41316,Beverage
+2024-11-18,transportation,20400,Transportation expense
+2024-11-18,transportation,49300,Transportation expense
+2024-11-19,health,92100,Health expense
+2024-11-19,other,52553,Other expense
+2024-11-19,health,74046,Health expense
+2024-11-19,utilities,62395,Tax
+2024-11-19,transportation,46900,Transportation expense
+2024-11-19,transportation,34600,Transportation expense
+2024-11-19,utilities,67187,Internet
+2024-11-19,other,68654,Other expense
+2024-11-19,other,10025,Other expense
+2024-11-19,utilities,98087,Internet
+2024-11-19,food & beverages,73348,Beverage
+2024-11-19,food & beverages,29541,Beverage
+2024-11-20,food & beverages,60201,Food
+2024-11-20,health,92569,Health expense
+2024-11-20,transportation,47400,Transportation expense
+2024-11-20,other,30278,Other expense
+2024-11-21,entertainment,405217,Karaoke
+2024-12-01,health,300000,Gym membership
+2024-12-01,food & beverages,66535,Food
+2024-12-01,transportation,18700,Transportation expense
+2024-12-01,food & beverages,63844,Food
+2024-12-01,food & beverages,20575,Beverage
+2024-12-01,transportation,38500,Transportation expense
+2024-12-01,utilities,37677,Water bill
+2024-12-01,transportation,23000,Transportation expense
+2024-12-01,transportation,47400,Transportation expense
+2024-12-01,food & beverages,63212,Food
+2024-12-01,transportation,25900,Transportation expense
+2024-12-01,food & beverages,36195,Food
+2024-12-01,utilities,34749,Electric bill
+2024-12-01,utilities,67876,Tax
+2024-12-02,entertainment,280630,Shopping
+2024-12-02,utilities,65838,Water bill
+2024-12-02,transportation,39000,Transportation expense
+2024-12-02,transportation,38900,Transportation expense
+2024-12-02,food & beverages,28086,Food
+2024-12-02,utilities,31247,Water bill
+2024-12-02,food & beverages,77189,Beverage
+2024-12-02,transportation,19700,Transportation expense
+2024-12-02,health,57707,Health expense
+2024-12-02,food & beverages,22292,Food
+2024-12-03,food & beverages,50258,Beverage
+2024-12-03,food & beverages,64175,Food
+2024-12-03,food & beverages,62836,Food
+2024-12-03,other,97590,Other expense
+2024-12-03,food & beverages,58484,Food
+2024-12-03,transportation,26700,Transportation expense
+2024-12-03,food & beverages,66720,Beverage
+2024-12-03,utilities,26957,Internet
+2024-12-03,transportation,10500,Transportation expense
+2024-12-04,food & beverages,58260,Food
+2024-12-04,food & beverages,34168,Beverage
+2024-12-04,health,105119,Health expense
+2024-12-04,transportation,34900,Transportation expense
+2024-12-04,transportation,16500,Transportation expense
+2024-12-04,health,83525,Health expense
+2024-12-05,food & beverages,45014,Food
+2024-12-05,transportation,11400,Transportation expense
+2024-12-05,food & beverages,34983,Food
+2024-12-05,food & beverages,25289,Beverage
+2024-12-05,food & beverages,38290,Food
+2024-12-05,transportation,25500,Transportation expense
+2024-12-05,other,75700,Other expense
+2024-12-05,food & beverages,31887,Beverage
+2024-12-05,health,23862,Health expense
+2024-12-05,other,46725,Other expense
+2024-12-05,food & beverages,40745,Beverage
+2024-12-05,utilities,70096,Electric bill
+2024-12-05,transportation,24900,Transportation expense
+2024-12-05,transportation,47500,Transportation expense
+2024-12-06,food & beverages,44436,Food
+2024-12-06,transportation,23600,Transportation expense
+2024-12-06,utilities,38102,Water bill
+2024-12-06,food & beverages,49328,Food
+2024-12-06,other,66369,Other expense
+2024-12-06,other,29025,Other expense
+2024-12-06,utilities,61614,Water bill
+2024-12-07,other,25517,Other expense
+2024-12-07,food & beverages,24536,Food
+2024-12-07,utilities,74269,Internet
+2024-12-07,other,49760,Other expense
+2024-12-07,transportation,27900,Transportation expense
+2024-12-07,food & beverages,23620,Beverage
+2024-12-08,entertainment,420854,Cinema
+2024-12-08,transportation,25100,Transportation expense
+2024-12-08,transportation,25100,Transportation expense
+2024-12-08,utilities,30417,Internet
+2024-12-08,utilities,37575,Tax
+2024-12-08,transportation,49600,Transportation expense
+2024-12-08,transportation,34500,Transportation expense
+2024-12-09,transportation,19000,Transportation expense
+2024-12-09,food & beverages,41777,Beverage
+2024-12-09,utilities,55370,Electric bill
+2024-12-09,other,39170,Other expense
+2024-12-09,utilities,46812,Water bill
+2024-12-09,food & beverages,79594,Food
+2024-12-09,transportation,42100,Transportation expense
+2024-12-10,health,76040,Health expense
+2024-12-10,transportation,12700,Transportation expense
+2024-12-10,transportation,34900,Transportation expense
+2024-12-10,utilities,94964,Tax
+2024-12-10,transportation,44400,Transportation expense
+2024-12-10,utilities,88242,Electric bill
+2024-12-10,food & beverages,72525,Food
+2024-12-10,food & beverages,48993,Food
+2024-12-10,transportation,12600,Transportation expense
+2024-12-10,transportation,43800,Transportation expense
+2024-12-11,food & beverages,72959,Food
+2024-12-11,food & beverages,45234,Food
+2024-12-11,food & beverages,75229,Beverage
+2024-12-11,food & beverages,24321,Food
+2024-12-11,transportation,39600,Transportation expense
+2024-12-11,food & beverages,26781,Food
+2024-12-11,utilities,71520,Water bill
+2024-12-11,transportation,39500,Transportation expense
+2024-12-11,food & beverages,73760,Food
+2024-12-11,utilities,79596,Water bill
+2024-12-11,food & beverages,57505,Beverage
+2024-12-11,health,41495,Health expense
+2024-12-11,utilities,31952,Electric bill
+2024-12-11,food & beverages,38785,Food
+2024-12-11,food & beverages,62636,Food
+2024-12-12,food & beverages,17877,Food
+2024-12-12,utilities,94120,Internet
+2024-12-12,health,39672,Health expense
+2024-12-12,food & beverages,65407,Beverage
+2024-12-12,utilities,60378,Tax
+2024-12-12,food & beverages,44245,Food
+2024-12-12,food & beverages,73886,Beverage
+2024-12-12,food & beverages,55800,Beverage
+2024-12-12,utilities,80115,Electric bill
+2024-12-12,transportation,42700,Transportation expense
+2024-12-12,transportation,10400,Transportation expense
+2024-12-12,transportation,42300,Transportation expense
+2024-12-12,food & beverages,46176,Food
+2024-12-13,food & beverages,31037,Food
+2024-12-13,health,56452,Health expense
+2024-12-13,transportation,46500,Transportation expense
+2024-12-13,health,47215,Health expense
+2024-12-13,food & beverages,57813,Beverage
+2024-12-13,food & beverages,17125,Beverage
+2024-12-13,utilities,63399,Internet
+2024-12-13,other,16426,Other expense
+2024-12-13,food & beverages,25573,Food
+2024-12-13,utilities,79682,Water bill
+2024-12-13,utilities,24697,Internet
+2024-12-13,food & beverages,39154,Beverage
+2024-12-14,utilities,58382,Electric bill
+2024-12-14,transportation,18000,Transportation expense
+2024-12-14,utilities,63150,Internet
+2024-12-14,transportation,44400,Transportation expense
+2024-12-14,food & beverages,18813,Beverage
+2024-12-14,food & beverages,56220,Food
+2024-12-14,transportation,15700,Transportation expense
+2024-12-14,transportation,49600,Transportation expense
+2024-12-14,other,47642,Other expense
+2024-12-14,transportation,30700,Transportation expense
+2024-12-15,transportation,42500,Transportation expense
+2024-12-19,entertainment,283317,Karaoke

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload CSV for Forecast</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f2f2f2; padding: 30px; }
+        h1 { color: #333; text-align: center; }
+        .container {
+            background: white;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        input[type=file], input[type=submit] {
+            margin-top: 10px;
+            display: block;
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+        }
+        ul { list-style-type: none; padding: 0; }
+        li { padding: 5px 0; }
+        .category { font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Your Expense CSV</h1>
+        <form method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".csv" required>
+            <input type="submit" value="Upload and Forecast">
+        </form>
+
+        {% if forecasts %}
+            <h2>Forecast Results</h2>
+            <ul>
+                {% for category, value in forecasts.items() %}
+                    <li><span class="category">{{ category }}:</span> {{ value }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</body>
+</html>
