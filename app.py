@@ -50,7 +50,7 @@ def run_forecast(csv_path):
                                 enforce_stationarity=False, enforce_invertibility=False)
                 results = model.fit(disp=False)
                 forecast = results.forecast(steps=1)
-                forecasts.append(forecast)
+                forecasts.append(float(forecast.values[0]) if hasattr(forecast, 'values') else float(forecast))
                 
                 
                 try:
